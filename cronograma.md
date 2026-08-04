@@ -40,7 +40,8 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
 <h2>Atividades e Cursos Pendentes:</h2>
 <small> OBS: Atividades com Check, já foram concluídas e provavelmente foram postadas aqui.</small>
 <small> As atividades passadas serão diariamente atualizadas para novas atividades.</small>
-
+[] tarefa
+[x] tarrfa
 <ul>
   <li>
     <input type="checkbox" id="cursoPreditivaExcel">
