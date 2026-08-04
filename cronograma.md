@@ -2,7 +2,7 @@
 Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atualizado semanalmente todo Domingo ou Segunda, sobre as atividades que realizarei na semana.
 
 <table>
-  <caption>Cronograma</caption> 
+  <caption>Cronograma Geral</caption> 
   
   <thead>
     <tr>
@@ -40,33 +40,13 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
 <h2>Atividades e Cursos Pendentes:</h2>
 <small> OBS: Atividades com Check, já foram concluídas e provavelmente foram postadas aqui.</small>
 <small> As atividades passadas serão diariamente atualizadas para novas atividades.</small>
-[] tarefa
-[x] tarrfa
-<ul>
-  <li>
-    <input type="checkbox" id="cursoPreditivaExcel">
-    <label for="cursoPreditivaExcel">Curso Excel Preditiva </label>
-  </li>
-  
-  <li>
-    <input type="checkbox" id="cursoGoogleSkills" checked>
-    <label for="cursoGoogleSkills"> Curso Google Skills Cibersegurança</label>
-  </li>
 
-  <li>
-    <input type="checkbox" id="javaMarcelo" checked>
-    <label for="javaMarcelo">Exercícios de Java sobre IPOO</label>
-    <small>Esses exercícios são diariamente atualizados e novos, então é uma das atividades que não mudará. Para ver o processo, será postado os códigos em Java aqui.</small>
-  </li>
-
-   <li>
-    <input type="checkbox" id="atividadesGuilherme" checked>
-    <label for="atividadesGuilherme">Exercícios das Listas e Algoritmos de Guilherme</label>
-    <small> Os exercícios das Listas serão realizados no caderno. Já os Algoritmos, serão disponibilizados aqui</small>
-  </li>
-  
-</ul>
-
+- [ ] Curso Excel Preditiva;
+- [ ] Curso Google Skills Cibersegurança;
+- [ ] Exercícios das Listas e Algoritmos de Guilherme;
+  - Os exercícios das Listas serão realizados no caderno. Já os Algoritmos, serão disponibilizados aqui
+- [ ] Exercícios de Java sobre IPOO;
+  -Esses exercícios são diariamente atualizados e novos, então é uma das atividades que não mudará. Para ver o processo, será postado os códigos em Java aqui.
 
 </tbody>
 </table>
