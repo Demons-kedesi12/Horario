@@ -36,7 +36,7 @@ public class Atv2 {
        System.out.println("MATRIZ B:");
        for (int l=0; l<3;l++){
            for (int c=0; c<3;c++){
-               System.out.print( "|" + matrizA[l][c] + "\t");
+               System.out.print( "|" + matrizB[l][c] + "\t");
            }
            System.out.println();
        }
