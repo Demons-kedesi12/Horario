@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Atv2 {
+public class Atv3 {
    public static void main(String[] args) {
        Scanner entrada = new Scanner(System.in);
        double somaAluno=0, mAluno=0, somaBimestre=0;
