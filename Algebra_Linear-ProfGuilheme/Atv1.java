@@ -1,7 +1,6 @@
 import java.util.Scanner;
 
 public class Atv1 {
-
     public static void main(String[] args) {
         Scanner entrada = new Scanner(System.in);
         double[][] matrizA = new double[3][3];
@@ -13,7 +12,6 @@ public class Atv1 {
 
         entrada.close();
     }
-
     public static void lerNotas(double[][] matriz, Scanner entrada) {
         for (int l = 0; l < 3; l++) {
             System.out.println("\nInforme as notas do " + (l + 1) + "° aluno:");
