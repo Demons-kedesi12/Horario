@@ -41,15 +41,24 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
 
 - [ ] Curso Excel Preditiva;
   - Terá Resumos e Estudos como Commit;
+    
 - [ ] Curso Google Skills Cibersegurança;
   - Terá Resumos e Estudos como Commit;
-- [ ] Exercícios das Listas e Algoritmos de Guilherme;
+  
+- Exercícios das Listas e Algoritmos de Guilherme;
   - Os exercícios das Listas serão realizados no caderno (commit em imagem). Já os Algoritmos, serão commits normais.
+  - [ ] Lista 1;
+  - [ ] Lista 2;
+  - [ ] Lista 3;
+  - [ ] Algoritmos;
+
 - [ ] Exercícios de Java sobre IPOO;
   - Esses exercícios são diariamente atualizados e novos, então é uma das atividades que não mudará. Para ver o processo, será postado os códigos em Java aqui.
+     
 - Exercícios das Listas do Gustavo;
   - Provavelmente serão commits em imagens do caderno.
   - [x] Lista DEMORGAN;
+        
 - [ ] Estudo de HTML, CSS e JavaScript;
   - Estudo Pessoal (Curso em Vídeo), atualizações em Commits;
 
