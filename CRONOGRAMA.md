@@ -50,7 +50,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   - [ ] Lista 1;
   - [ ] Lista 2;
   - [ ] Lista 3;
-  - [ ] Algoritmos;
+  - [x] Algoritmos;
 
 - [ ] Exercícios de Java sobre IPOO;
   - Esses exercícios são diariamente atualizados e novos, então é uma das atividades que não mudará. Para ver o processo, será postado os códigos em Java aqui.
