@@ -62,5 +62,8 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
 - [ ] Estudo de HTML, CSS e JavaScript;
   - Estudo Pessoal (Curso em Vídeo), atualizações em Commits;
 
+- [ ] Estudo de Java POO;
+  - Estudo Pessoal (Curso em Vídeo), atualizações em Commits;
+
 </tbody>
 </table>
