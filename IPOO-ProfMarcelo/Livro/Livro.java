@@ -16,21 +16,21 @@ public class Livro {
  
     public void setTitulo(String titulo){
         if(titulo==null){
-            System.out.println("Valor Inválido!");
+            System.out.println("Nome do Título Inválido!");
         }else{
             this.titulo=titulo;
         }
     }
     public void setAutor(String autor){
         if(autor==null){
-            System.out.println("Valor Inválido!");
+            System.out.println("Nome do Autor Inválido!");
         }else{
             this.autor=autor;
         }
     }
     public void setPaginas(int paginas){
         if(paginas<0){
-            System.out.println("Valor Inválido!");
+            System.out.println("Valor de Páginas Inválido!");
         }else{
             this.paginas=paginas;
         }

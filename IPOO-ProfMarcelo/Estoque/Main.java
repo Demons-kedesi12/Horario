@@ -7,16 +7,24 @@ public class Main {
         est1.mostrarEstoque();
         System.out.println("---------------------------------------");
         est1.setNome("Sabonete");
-        est1.setQtd(4);
-        est1.setPreco(300);
+        est1.setQtd(-1);
+        est1.setPreco(400);
         
         est1.mostrarEstoque();
 
-        est1.adicionarQtd(3);
-        est1.retirarQtd(7);
+        System.out.println("==========================================");
 
-        System.out.println("=========================================");
+        System.out.println("\nAdicionando Mais Quantidade...");
+        est1.adicionarQtd(1);
+
+        est1.mostrarEstoque();
+
+        System.out.println("==========================================");
+
+        System.out.println("Retirando Quantidade...");
+        est1.retirarQtd(3);
+        
+        System.out.println("\nEstoque Atualizado: ");
         est1.mostrarEstoque();
     }
-    
 }

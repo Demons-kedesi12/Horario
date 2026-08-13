@@ -5,12 +5,13 @@ public class Main {
         Livro l2 = new Livro("The Tea Dragon Society", "K. O'Neill", 144, 2025);
  
         l1.apresentarLivros();
+        System.out.println("==================================");
         l2.apresentarLivros();
         System.out.println();
 
-        l1.setTitulo(null);
-        l1.setAutor("");
-        l1.setPaginas(200);
+        l1.setTitulo("Batata");
+        l1.setAutor("Maria");
+        l1.setPaginas(-1);
         System.out.println("==================================");
         l1.apresentarLivros();
 
