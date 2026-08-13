@@ -7,7 +7,6 @@ public class Main {
         est1.mostrarEstoque();
         System.out.println("---------------------------------------");
         est1.setNome("Sabonete");
-        est1.setQtd(-1);
         est1.setPreco(400);
         
         est1.mostrarEstoque();
@@ -15,14 +14,14 @@ public class Main {
         System.out.println("==========================================");
 
         System.out.println("\nAdicionando Mais Quantidade...");
-        est1.adicionarQtd(1);
+        est1.adicionarQtd(0);
 
         est1.mostrarEstoque();
 
         System.out.println("==========================================");
 
         System.out.println("Retirando Quantidade...");
-        est1.retirarQtd(3);
+        est1.retirarQtd(2);
         
         System.out.println("\nEstoque Atualizado: ");
         est1.mostrarEstoque();

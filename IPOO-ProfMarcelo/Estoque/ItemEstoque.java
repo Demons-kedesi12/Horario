@@ -18,7 +18,7 @@ public class ItemEstoque {
 
     public int adicionarQtd (int qtd){
         if(qtd <= 0){
-            System.out.println("Quantidade colocada Menor ou Igual a Zero, Valor Inválido!");
+            System.out.println("\n!!!!ATENÇÂO!!!! Quantidade colocada Menor ou Igual a Zero, Valor Inválido!\n");
         }else{
             this.qtd += qtd;
         }
@@ -27,7 +27,7 @@ public class ItemEstoque {
 
     public int retirarQtd(int qtd){
         if(this.qtd <= qtd){
-            System.out.println("Quantidade retirada Menor ou Igual a Zero, Valor Inválido!");
+            System.out.println("\n!!!!ATENÇÃO!!!! Quantidade retirada Menor ou Igual a Zero, Valor Inválido!\n");
         }else{
             this.qtd -= qtd;
         }
@@ -39,13 +39,6 @@ public class ItemEstoque {
             System.out.println("Nome inválido!");
         }else{
             this.nome = nome;
-        }
-    }
-    public void setQtd(int qtd){
-        if(qtd<0){
-            System.out.println("Valor de Quantidade Inválido!");
-        }else{
-            this.qtd = qtd;
         }
     }
     public void setPreco(double preco){
