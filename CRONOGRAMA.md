@@ -50,6 +50,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   - [ ] Lista 1;
   - [ ] Lista 2;
   - [ ] Lista 3;
+  - [ ] Tarefas Bônus;
   - [x] Algoritmos;
 
 - [ ] Exercícios de Java sobre IPOO;
