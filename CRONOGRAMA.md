@@ -39,13 +39,17 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
 <small> OBS: Atividades com Check, já foram concluídas e provavelmente foram postadas aqui.</small>
 <small> As atividades passadas serão diariamente atualizadas para novas atividades.</small>
 
-- [ ] Curso Excel Preditiva;
+<br>
+
+- [ ] **Curso Excel Preditiva**;
   - Terá Resumos e Estudos como Commit;
-    
-- [ ] Curso Google Skills Cibersegurança;
-  - Terá Resumos e Estudos como Commit;
+<br>
   
-- Exercícios das Listas e Algoritmos de Guilherme;
+- [ ] **Curso Google Skills Cibersegurança**;
+  - Terá Resumos e Estudos como Commit;
+<br>
+
+- **Exercícios das Listas e Algoritmos de Guilherme**;
   - Os exercícios das Listas serão realizados no caderno (commit em imagem). Já os Algoritmos, serão commits normais.
   - [ ] Lista 1;
   - [ ] Lista 2;
@@ -54,17 +58,25 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
     - [x] Tarefa 01;
   - [x] Algoritmos;
 
-- [ ] Exercícios de Java sobre IPOO;
+<br>
+
+- [ ] **Exercícios de Java sobre IPOO**;
   - Esses exercícios são diariamente atualizados e novos, então é uma das atividades que não mudará. Para ver o processo, será postado os códigos em Java aqui.
-     
-- Exercícios das Listas do Gustavo;
+
+  <br>
+
+- **Exercícios das Listas do Gustavo**;
   - Provavelmente serão commits em imagens do caderno.
   - [x] Lista DEMORGAN;
-        
-- [ ] Estudo de HTML, CSS e JavaScript;
-  - Estudo Pessoal (Curso em Vídeo), atualizações em Commits;
+  
+  <br>
 
-- [ ] Estudo de Java POO;
+- [ ] **Estudo de HTML, CSS e JavaScript**;
+  - Estudo Pessoal (Curso em Vídeo), atualizações em Commits;
+     
+  <br>
+
+- [ ] **Estudo de Java POO**;
   - Estudo Pessoal (Udemy - Nelio Alves), atualizações em Commits;
 
 </tbody>
