@@ -68,6 +68,8 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
 - **Exercícios das Listas do Gustavo**;
   - Provavelmente serão commits em imagens do caderno.
   - [x] Lista DEMORGAN;
+  - [x] Lista de Mapa de Karnaugh 1;
+  - [ ] Lista de Mapa de Karnaugh 2;
   
   <br>
 
