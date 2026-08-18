@@ -54,10 +54,11 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   - [ ] Lista 1;
   - [ ] Lista 2;
   - [ ] Lista 3;
+  - [x] Algoritmos;
     - Tarefas Bônus;
     - [x] Tarefa 01;
     - [x] Tarefa 02;
-  - [x] Algoritmos;
+
 
 <br>
 
