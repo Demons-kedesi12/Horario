@@ -19,7 +19,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   <tbody>
     <tr>
       <td>14:00 - 16:00</td>
-      <td>Londrinense Tech</td>
+      <td>Londrinense Tech Turma 4</td>
       <td>Pensamento Computacional</td>
       <td>Pensamento Computacional</td>
       <td>Fazer Cursos ou Realizar Atividades da Faculdade</td>
@@ -28,7 +28,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
     </tr>
     <tr>
       <td>16:00 - 18:00</td>
-      <td>Realizar o Relatório e Portfólio do Londrinense Tech / Completar Cursos ou Atividades (se tiver tempo) </td>
+      <td>Londrinense Tech Turma 5</td>
       <td>Realizar o Relatório e Portfólio do Pensamento Computacional Turma B / Completar Cursos ou Atividades (se tiver tempo) </td>
       <td>Realizar o Relatório e Portfólio do Pensamento Computacional Turma E / Completar Cursos ou Atividades (se tiver tempo)</td>
       <td>Fazer Cursos ou Realizar Atividades da Faculdade</td>
