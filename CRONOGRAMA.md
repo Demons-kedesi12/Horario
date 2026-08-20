@@ -58,12 +58,26 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
     - Tarefas Bônus;
     - [x] Tarefa 01;
     - [x] Tarefa 02;
-
+    - [x] Tarefa 03;
+    - [ ] Tarefa 04;
+    - [ ] Tarefa 05;
+    - [ ] Tarefa 06;
+    - [ ] Tarefa 07;
+    - [ ] Tarefa 08;
+    - [ ] Tarefa 09;
+    - [ ] Tarefa 10;
 
 <br>
 
 - [ ] **Exercícios de Java sobre IPOO**;
   - Esses exercícios são diariamente atualizados e novos, então é uma das atividades que não mudará. Para ver o processo, será postado os códigos em Java aqui.
+  - [x] Estoque e Livro;
+  - [ ] Sistema de Funcionários de uma Empresa;
+  - [ ] 
+  - [ ] 
+  - [ ]     
+
+    
 
   <br>
 
@@ -71,7 +85,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   - Provavelmente serão commits em imagens do caderno.
   - [x] Lista DEMORGAN;
   - [x] Lista de Mapa de Karnaugh 1;
-  - [ ] Lista de Mapa de Karnaugh 2;
+  - [x] Lista de Mapa de Karnaugh 2;
   
   <br>
 
