@@ -72,7 +72,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
 - [ ] **Exercícios de Java sobre IPOO**;
   - Esses exercícios são diariamente atualizados e novos, então é uma das atividades que não mudará. Para ver o processo, será postado os códigos em Java aqui.
   - [x] Estoque e Livro;
-  - [ ] Sistema de Funcionários de uma Empresa;
+  - [x] Sistema de Funcionários de uma Empresa;
   - [ ] 
   - [ ] 
   - [ ]     
