@@ -11,7 +11,7 @@ A **computação em nuvem** permite usar servidores, armazenamento, redes e soft
 - **Redundância:** cópia de dados em diferentes zonas/regiões.
 - **Latência:** tempo necessário para transferir dados.
 
-## 2. Modelos de Nuvem
+## Modelos de Nuvem
 
 | Modelo | Característica |
 |---|---|
@@ -20,7 +20,7 @@ A **computação em nuvem** permite usar servidores, armazenamento, redes e soft
 | **Híbrida** | Combina pública e privada. |
 | **Multicloud** | Utiliza diferentes CSPs. |
 
-## 3. Benefícios
+## Benefícios
 
 ### Rapidez
 - Infraestrutura e softwares podem ser implantados mais rapidamente.
@@ -43,14 +43,14 @@ A **computação em nuvem** permite usar servidores, armazenamento, redes e soft
 ### Durabilidade
 - Redundância protege dados contra falhas, desastres e ameaças.
 
-## 4. Limitações
+## Limitações
 
 - **Menor controle:** a infraestrutura física pertence ao CSP.
 - **Segurança:** existem preocupações com privacidade e acessos maliciosos.
 - **Migração:** transferir sistemas pode ser complexo, demorado e exigir adaptação de códigos e treinamento.
 - **Internet:** é necessária uma conexão estável.
 ___
-# Virtualização
+# 2. Virtualização
 
 **Virtualização** é uma tecnologia que cria versões virtuais de recursos físicos, como **servidores, armazenamento e redes**. É a **base da computação em nuvem**.
 
@@ -89,7 +89,7 @@ O **hipervisor** é a camada entre o **hardware físico e as VMs**, responsável
 - **Isolamento:** problemas em uma VM não afetam diretamente as demais.
 
 ___
-# Computação sem Servidor:
+# 3. Computação sem Servidor:
 
 A **computação sem servidor (Serverless)** é um modelo de nuvem que **abstrai os servidores da visão do desenvolvedor**. Os servidores continuam existindo, mas são totalmente gerenciados pelo **CSP**.
 
@@ -139,3 +139,45 @@ As funções possuem **vida curta**, reduzindo o tempo disponível para um ataca
 Além disso, cada função normalmente possui uma tarefa específica. Se uma função for comprometida, o impacto tende a ficar limitado à parte do aplicativo relacionada a ela.
 
 Funções também podem ser usadas para **monitorar eventos e gerar alertas de segurança** automaticamente.
+
+___
+# 4. Contêineres
+
+Um **contêiner** é um pacote de software que contém o **código e as dependências** necessárias para executar uma aplicação.
+
+Diferente de uma **VM**, o contêiner **não possui um sistema operacional próprio**. Vários contêineres podem compartilhar o mesmo SO, reduzindo o uso de memória e recursos.
+
+## Imagem, Registro e Orquestração
+
+- **Imagem:** arquivo com o código e as dependências da aplicação.
+- **Registro:** local para **armazenar, enviar e baixar imagens**.
+- **Orquestração:** ferramentas para **gerenciar, monitorar e escalonar** contêineres.
+
+## Vantagens
+
+### Portabilidade
+- Executa o mesmo software em diferentes ambientes.
+- Pode ser usado em nuvens **públicas, privadas e híbridas**.
+
+### Imutabilidade
+- O contêiner não é alterado depois de criado.
+- Para fazer mudanças, cria-se uma **nova imagem**.
+- Facilita substituir versões desatualizadas ou inseguras.
+- Mantém a consistência entre ambientes.
+
+### Separação de Responsabilidades
+
+- **Desenvolvedores:** código e imagem.
+- **Operações:** implantação e gerenciamento.
+
+Isso permite que cada equipe se concentre em sua função.
+
+## Contêiner × VM
+
+| Contêiner | Máquina Virtual (VM) |
+|---|---|
+| Compartilha o SO | Possui SO próprio |
+| Mais leve | Mais pesada |
+| Usa menos recursos | Usa mais recursos |
+| Alta portabilidade | Portátil |
+| Isola aplicações | Isola máquinas completas |
