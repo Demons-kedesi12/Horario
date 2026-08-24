@@ -40,10 +40,6 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
 <small> As atividades passadas serão diariamente atualizadas para novas atividades.</small>
 
 <br>
-
-- [ ] **Curso Excel Preditiva**;
-  - Terá Resumos e Estudos como Commit;
-<br>
   
 - [ ] **Curso Google Skills Cibersegurança**;
   - Terá Resumos e Estudos como Commit;
