@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula JavaScript</title>
+</head>
+<body>
+    <h1>Bem Vindo!</h1>
+
+    <script>
+        var nome = window.prompt("Qual seu Nome?")
+        document.write(`Olá,  <strong> ${nome}</strong>! Seu nome tem ${nome.length} letras`)
+        document.write(`<br>Seu nome em maiúsculo é: ${nome.toUpperCase()} <br> Em minúsculo é: ${nome.toLowerCase()} `)
+        
+        var n1 = Number(window.prompt("Digite um Número: "))
+        var n2 = Number(window.prompt("Digite um Número: "))
+
+        var s = (n1 + n2)
+
+        document.write(`O Primeiro número é : ${n1}<br>`)
+        document.write(`O Segundo número é : ${n2}<br>`)
+        document.write(`A soma dos números é: ${s}`)
+    </script>
+
+</body>
+</html>
