@@ -1,4 +1,3 @@
-package Agregação;
 
 public class Main {
     public static void main(String[] args) {
@@ -7,7 +6,7 @@ public class Main {
 
         Escola escola = new Escola("PGD","Londrina","Particular",p1);
 
-        System.out.println("DADOS INICIAIS: ");
+        System.out.println(" ==== Bem vindo(a) aos Dados da SEMED ==== ");
         escola.apresentarDado();
         System.out.println();
         System.out.println("MUDANÇA DE PROFESSOR!!");

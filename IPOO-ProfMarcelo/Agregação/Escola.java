@@ -1,5 +1,3 @@
-package Agregação;
-
 public class Escola {
     private String nome;
     private String local;
@@ -54,7 +52,7 @@ public class Escola {
     public void trocaProf(Professor novoProf){
         if (novoProf != null){
             this.professor = novoProf;
-            System.out.println(novoProf.getNome() + " é o novo professor!");
+            System.out.println(" === "+ novoProf.getNome() + " é o novo professor! === ");
         }else{
             System.out.println("ERRO: O Novo professor está incapacitado!" );
         }
