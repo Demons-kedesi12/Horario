@@ -49,19 +49,12 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   - Os exercícios das Listas serão realizados no caderno (commit em imagem). Já os Algoritmos, serão commits normais.
   - [ ] Lista 1;
   - [ ] Lista 2;
-  - [ ] Lista 3;
   - [x] Algoritmos;
     - Tarefas Bônus;
     - [x] Tarefa 01;
     - [x] Tarefa 02;
     - [x] Tarefa 03;
     - [ ] Tarefa 04;
-    - [ ] Tarefa 05;
-    - [ ] Tarefa 06;
-    - [ ] Tarefa 07;
-    - [ ] Tarefa 08;
-    - [ ] Tarefa 09;
-    - [ ] Tarefa 10;
 
 <br>
 
@@ -69,7 +62,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   - Esses exercícios são diariamente atualizados e novos, então é uma das atividades que não mudará. Para ver o processo, será postado os códigos em Java aqui.
   - [x] Estoque e Livro;
   - [x] Sistema de Funcionários de uma Empresa;
-  - [ ] 
+  - [ ] Sistema de Contas Bancárias;
   - [ ] 
   - [ ]     
 
