@@ -55,6 +55,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   - [ ] Lista 1;
   - [ ] Lista 2;
   - [x] Algoritmos;
+  - [ ] Trabalho;
     - Tarefas Bônus;
     - [x] Tarefa 01;
     - [x] Tarefa 02;
@@ -87,6 +88,12 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
 
 - [ ] **Estudo de Java POO**;
   - Estudo Pessoal (Udemy - Nelio Alves), atualizações em Commits;
+     
+  <br>
+     
+- **Análise e Projeto de Algoritmos do Leonardo**;
+  - [ ] Trabalho Análise e projeto de algoritmos;
+  - [ ] Teste de Mesa;
 
 </tbody>
 </table>
