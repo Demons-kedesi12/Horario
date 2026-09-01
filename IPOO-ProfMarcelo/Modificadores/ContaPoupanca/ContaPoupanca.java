@@ -1,6 +1,6 @@
-package Modificadores.ContaPoupanca;
+package ContaPoupanca;
 
-import Modificadores.Modelo.ContaBancaria;
+import ContaBancaria.ContaBancaria;
 
 public class ContaPoupanca extends ContaBancaria {
     private double taxaRendimento;
@@ -19,7 +19,9 @@ public class ContaPoupanca extends ContaBancaria {
     }
 
 
-    protected void apresentarPoupanca(){
-        System.out.println("Taca de Redimento: " + taxaRendimento);
+    @Override
+    public void apresentarDados() {
+        super.apresentarDados();
+        System.out.println("Taxa de Rendimento: " + taxaRendimento);
     }
 }
