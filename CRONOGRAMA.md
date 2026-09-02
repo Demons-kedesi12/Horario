@@ -52,7 +52,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
 
 - **Exercícios das Listas e Algoritmos de Guilherme**;
   - Os exercícios das Listas serão realizados no caderno (commit em imagem). Já os Algoritmos, serão commits normais.
-  - [ ] Lista 1;
+  - [x] Lista 1;
   - [ ] Lista 2;
   - [x] Algoritmos;
   - [ ] Trabalho;
