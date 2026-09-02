@@ -60,7 +60,8 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
     - [x] Tarefa 01;
     - [x] Tarefa 02;
     - [x] Tarefa 03;
-    - [ ] Tarefa 04;
+    - [x] Tarefa 04;
+    - [x] Tarefa 05;
 
 <br>
 
@@ -68,7 +69,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   - Esses exercícios são diariamente atualizados e novos, então é uma das atividades que não mudará. Para ver o processo, será postado os códigos em Java aqui.
   - [x] Estoque e Livro;
   - [x] Sistema de Funcionários de uma Empresa;
-  - [ ] Sistema de Contas Bancárias;
+  - [x] Sistema de Contas Bancárias;
 
 
   <br>
@@ -78,6 +79,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   - [x] Lista DEMORGAN;
   - [x] Lista de Mapa de Karnaugh 1;
   - [x] Lista de Mapa de Karnaugh 2;
+  - [x] Projeto;
   
   <br>
 
