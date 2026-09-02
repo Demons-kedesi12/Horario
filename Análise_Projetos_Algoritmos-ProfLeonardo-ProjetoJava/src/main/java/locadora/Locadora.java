@@ -104,10 +104,11 @@ public class Locadora {
     }
 
     private double aplicarDescontosEEncargos(double valorBruto, Cliente cliente, int dias) {
-        if (cliente.isApto() || dias >= 7) {
+        if (cliente.isApto() && dias >= 7) {
             return valorBruto * 0.85;
+        }else{
+            return valorBruto;
         }
-        return valorBruto;
     }
 
     // Calcula a diaria de um aluguel a partir da categoria do veiculo (0, 1 ou 2),
