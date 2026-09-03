@@ -1,5 +1,8 @@
 package locadora;
 
+/**
+ * Classe Carro que realiza getters que interagem com os atributos placa, modelo, valorDiaria e disponivel.
+ */
 
 public class Carro {
 
@@ -8,7 +11,13 @@ public class Carro {
     private double valorDiaria;
     private boolean disponivel;
 
-    // TODO: adicionar Javadoc do construtor.
+    /**
+     * Construtor da classe Carro
+     * Cria a instância dos objetos
+     * @param placa placa do carro da locadora
+     * @param modelo modelo do carro da locadora
+     * @param valorDiaria valor de pagamento por dia do carro na locadora.
+     */
     public Carro(String placa, String modelo, double valorDiaria) {
         this.placa = placa;
         this.modelo = modelo;

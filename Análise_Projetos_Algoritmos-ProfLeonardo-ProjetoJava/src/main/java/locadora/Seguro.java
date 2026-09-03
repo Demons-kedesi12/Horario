@@ -1,7 +1,7 @@
 package locadora;
 
 /**
- * Classe Seguro que realiza getters que interagem com os objetos Seguro tipo e valorDiario
+ * Classe Seguro que realiza getters que interagem com os atributos tipo e valorDiario.
  */
 
 public class Seguro {
@@ -12,7 +12,7 @@ public class Seguro {
     /**
      * Construtor da classe Seguro
      * Cria a instância dos objetos
-     * @param tipo tipo do seguro se é completo ou não
+     * @param tipo tipo do seguro
      * @param valorDiario valor diário do seguro
      */
 

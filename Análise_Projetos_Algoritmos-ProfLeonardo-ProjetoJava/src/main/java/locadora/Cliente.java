@@ -1,7 +1,7 @@
 package locadora;
 
 /**
- * Classe Cliente que realiza operações utilizando métodos que interagem com os objetos nome, idade, anosHabilitado.
+ *Classe Cliente que realiza operações lógicas e getters que interagem com os atributos nome, idade e anosHabilitado.
  */
 
 public class Cliente {

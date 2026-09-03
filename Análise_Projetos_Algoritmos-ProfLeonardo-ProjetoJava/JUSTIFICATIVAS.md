@@ -104,18 +104,42 @@ Se for fazer em dupla, cada aluno coloca aqui nesse arquivo quais respondeu.
 
 ## 9. gerarResumoFrota
 
-**Tinha bug?**
+**Tinha bug? Não**
 
-**Explicação:**
+**Explicação:** Não, pois a lógica analisa e verifica se os carros da frota estão disponíveis,
+e para cada carro disponível, o código incrementa a quantidade de disponíveis + o valor da diária.
+Nofim, a média é calculada com a soma / a quantidade de carros disponíveis. 
+Além disso, tem-se a estrutur ade repetição if (disponiveis == 0 ? 0 : somaValores / disponiveis),
+que evita divisão por zero.
 
 ## 10. calcularDescontoEscalonado
 
-**Tinha bug?**
+**Tinha bug? Sim**
 
-**Explicação:**
+**Explicação:** Sim, pois na lógica da estrutura de repetição for contava de que i
+seria menor OU IGUAl ao tamanho do vetor de LIMIARES,e esse igual está totalmente errado. Para acontecer a repetição
+corretamente, é necessário que a expressão fique assim:
+
+        for (int i = 0; i < LIMIARES_DIAS.length; i++) {
+            if (dias >= LIMIARES_DIAS[i]) {
+                desconto = DESCONTOS[i];
+            }
+        }
+
 
 ## 11. clienteElegivelDescontoFidelidade
 
-**Tinha bug?**
+**Tinha bug? Sim**
 
-**Explicação:**
+**Explicação:** Sim, pois a estrutura lógica para return estava errada. 
+Sendo ela:
+
+return cliente.getIdade() > 25 && totalLocacoesAnteriores >= 3;
+
+Já que, como deve-se que para ser fidelidade, 
+o cliente tem que ser maior OU IGUAL a 25 anos E com mais ou igual a 3 Locações anteriores.
+Desta forma o correto é na parte da idade a estrutura ser, ">=" e não só ">".
+ 
+A forma corrigida:
+
+return cliente.getIdade() >= 25 && totalLocacoesAnteriores >= 3;
