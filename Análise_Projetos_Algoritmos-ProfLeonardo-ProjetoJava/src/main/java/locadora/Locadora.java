@@ -1,6 +1,8 @@
 package locadora;
 
-// TODO: adicionar Javadoc da classe.
+/**
+ * Classe Locadora que realiza operações utilizando métodos que interagem com os objetos carro e cliente.
+ */
 public class Locadora {
 
     private static final double[] TABELA_PRECOS = {90.0, 130.0, 180.0};

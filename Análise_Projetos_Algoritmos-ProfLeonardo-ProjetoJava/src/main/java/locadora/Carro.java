@@ -1,6 +1,6 @@
 package locadora;
 
-// TODO: adicionar Javadoc da classe.
+
 public class Carro {
 
     private String placa;
