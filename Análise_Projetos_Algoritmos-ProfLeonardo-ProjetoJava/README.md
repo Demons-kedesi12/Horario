@@ -24,15 +24,3 @@ Para cada um dos 11 métodos, vocês precisam:
 3. **Preencher o `JUSTIFICATIVAS.md`** — para cada método, uma explicação curta
     do que estava errado e por que a correção resolve (ou por
    que vocês concluíram que o método já estava certo).
-
-## O que fazer (Parte 2)
-
-Seguir as instruções do arquivo `EXTENSAO.md` e implmentar novas classes. Documentar
-tudo com Javadoc. 
-
-
-## Entrega
-
-Junto com o projeto corrigido, incluam:
-- `JUSTIFICATIVAS.md` preenchido
-- A documentação HTML gerada através do Javadoc.
