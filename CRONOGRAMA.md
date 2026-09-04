@@ -95,7 +95,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   <br>
      
 - **Análise e Projeto de Algoritmos do Leonardo**;
-  - [ ] Trabalho Análise e projeto de algoritmos;
+  - [x] Trabalho Análise e projeto de algoritmos;
   - [ ] Teste de Mesa;
 
 </tbody>
