@@ -197,3 +197,44 @@ Por exemplo, políticas podem verificar automaticamente se um aplicativo de moni
 |---|---|
 | **IaC** | Define e automatiza a **infraestrutura**. |
 | **PaC** | Define e automatiza **políticas e regras**. |
+
+______
+# 6. Terraform como ferramenta de IaC:
+
+**IaC (Infraestrutura como Código)** permite **criar e gerenciar infraestrutura usando código**, substituindo configurações manuais.
+
+O **Terraform** é uma ferramenta de IaC que automatiza a criação e implantação de recursos na nuvem e funciona com diferentes plataformas.
+
+## 2. Arquivos e recursos
+
+O Terraform utiliza **arquivos de configuração** para definir a infraestrutura desejada, como **VMs, VPCs e redes**.
+
+- **Recurso:** define o que será criado.
+- **Variável:** nome usado para identificar o recurso.
+- **Local:** região e zona onde o recurso será criado.
+
+### Exemplo de Infraestrutura (Rede, Sub-rede e VM)
+
+```terraform
+# Exemplo de uma rede
+resource "google_compute_network" "vpc_network" {
+  name                    = "my-custom-mode-network"
+  auto_create_subnetworks = false
+  mtu                     = 1460
+}
+
+# Exemplo de uma sub-rede
+resource "google_compute_subnetwork" "default" {
+  name          = "my-custom-subnet"
+  ip_cidr_range = "10.0.1.0/24"
+  region        = "us-west1"
+  network       = google_compute_network.vpc_network.id
+}
+
+# Exemplo de uma VM
+resource "google_compute_instance" "default" {
+  name         = "flask-vm"
+  machine_type = "f1-micro"
+  zone         = "us-west1-a"
+  tags         = ["ssh"]
+  
