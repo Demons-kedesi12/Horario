@@ -72,3 +72,50 @@ O **Cloud Build**, do Google Cloud, é um serviço **sem servidor** que automati
 **Shift Left → segurança desde o início.**
 
 **Cloud Build → builds automatizados + verificações de segurança.**
+
+____
+# 3. Fortalecimento da Cadeia de Suprimentos com o Software Delivery Shield
+
+A **cadeia de suprimentos de software** envolve **pessoas, processos e ferramentas** usados no desenvolvimento. Como seus componentes podem apresentar vulnerabilidades, a segurança deve estar presente durante todo o ciclo.
+
+O **SLSA** define padrões e controles para aumentar a **integridade dos artefatos**, enquanto o **Software Delivery Shield (SDS)** oferece recursos para fortalecer a cadeia no Google Cloud.
+
+### Software Delivery Shield (SDS)
+
+O **SDS** é uma solução gerenciada que fortalece a segurança da cadeia de suprimentos em todas as etapas do desenvolvimento. Ele combina:
+
+- **Boas práticas do Google** para desenvolvimento seguro.
+- **Dashboards do Google Cloud** para visualizar a segurança dos recursos.
+- **Comparação com as diretrizes SLSA** para avaliar a segurança da cadeia.
+
+### Principais recursos
+
+- **Cloud Workstations:** ambientes de desenvolvimento seguros acessíveis pelo navegador, mantendo o código na nuvem e facilitando o uso de repositórios compartilhados.
+- **SBOM:** lista, em formato legível por máquina, os softwares e componentes utilizados, facilitando a análise de segurança e compliance.
+- **Assured OSS:** disponibiliza pacotes de código aberto confiáveis, com informações sobre componentes, melhorias e verificações regulares das dependências.
+
+### SDS e Shift Left
+
+O SDS reforça o **Shift Left**, aplicando segurança desde o início do desenvolvimento e fortalecendo o **DevSecOps**.
+
+Na proteção dos pipelines **CI/CD**, destacam-se:
+
+- **IAM:** controle preciso de quem pode acessar recursos.
+- **VPC:** isolamento e controle dos ambientes de rede.
+- **Ambientes nativos da nuvem:** integração entre ferramentas de desenvolvimento e segurança.
+
+Essas práticas seguem as diretrizes do **SLSA**, ajudando a proteger artefatos durante as diferentes fases do pipeline e permitindo desenvolver, atualizar e implantar software com mais **segurança e eficiência**.
+
+### Para memorizar
+
+**SLSA → padrões e controles → integridade dos artefatos.**
+
+**SDS → solução gerenciada → segurança de toda a cadeia.**
+
+**SDS → boas práticas + dashboards + SLSA.**
+
+**Recursos → Cloud Workstations + SBOM + Assured OSS.**
+
+**Shift Left → segurança desde o início.**
+
+**SDS + CI/CD + IAM + VPC → mais segurança, controle e eficiência.**
