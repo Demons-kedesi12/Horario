@@ -1,4 +1,29 @@
 # Segurança na Nuvem - Modulo 2
+
+| Termo                                            | Definição                                                                                                                                                         |
+| ------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Chave (Switch)**                               | Dispositivo que usa o envio e recebimento de dados para conectar dispositivos específicos em uma rede.                                                            |
+| **Controle de detetive**                         | Medida usada para identificar atividades suspeitas caso ocorram.                                                                                                  |
+| **Controle de identidade**                       | Medida que ajuda a autenticar um usuário antes que ele acesse recursos, como redes ou armazenamento.                                                              |
+| **Controle de rede**                             | Medida que protege o acesso por meio do caminho de rede.                                                                                                          |
+| **Controle de proteção**                         | Medida que protege o acesso aos recursos e oferece defesa contra ataques maliciosos.                                                                              |
+| **Controle de recuperação**                      | Medida que restaura o acesso e a funcionalidade em caso de falhas.                                                                                                |
+| **Controle de resposta**                         | Aplicativo ou ferramenta que usa automação para responder a ocorrências de segurança.                                                                             |
+| **Contrato de nível de serviço (SLA)**           | Quantifica a disponibilidade dos serviços.                                                                                                                        |
+| **Defesa em profundidade**                       | Abordagem de gerenciamento de vulnerabilidades em camadas que reduz o risco.                                                                                      |
+| **Interface de programação do aplicativo (API)** | Função de biblioteca ou ponto de acesso do sistema, com sintaxe e código definidos, que se comunica com outros aplicativos e terceiros.                           |
+| **Migração lift-and-shift**                      | Modelo de migração em que as cargas de trabalho são movidas para a nuvem com pouca ou nenhuma modificação.                                                        |
+| **Modelo de destino compartilhado**              | Abordagem que enfatiza o envolvimento do CSP em todo o percurso de segurança do cliente e oferece recursos para gerenciar o ambiente com segurança em cada etapa. |
+| **Modelo de responsabilidade compartilhada**     | Contrato implícito e explícito entre o cliente e o CSP que define a responsabilidade compartilhada pelos controles de segurança.                                  |
+| **Nuvem privada virtual (VPC)**                  | Nuvem privada hospedada em uma nuvem pública, permitindo usar recursos da nuvem pública isolados de outros usuários.                                              |
+| **Papéis (Roles)**                               | Coleção de permissões que pode ser aplicada aos principais.                                                                                                       |
+| **Política de negação**                          | Restrição que define regras para impedir os principais de realizar determinadas ações.                                                                            |
+| **Principais (Principals)**                      | Representam usuários finais ou aplicativos.                                                                                                                       |
+| **Política de permissão**                        | Tipo de acesso de um principal e as condições para esse acesso.                                                                                                   |
+| **Roteador**                                     | Dispositivo de rede que conecta várias redes.                                                                                                                     |
+| **Zona de destino (Landing Zone)**               | Configuração modular e escalonável que permite às organizações adotar o Google Cloud de acordo com suas necessidades de negócio.                                  |
+
+______
 # 1. Cybersecurity:
 **Cybersecurity** é o conjunto de técnicas para proteger **sistemas e dados contra ameaças**
 
