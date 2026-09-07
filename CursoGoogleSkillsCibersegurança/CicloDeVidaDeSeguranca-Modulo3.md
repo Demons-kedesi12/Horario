@@ -119,3 +119,81 @@ Essas práticas seguem as diretrizes do **SLSA**, ajudando a proteger artefatos 
 **Shift Left → segurança desde o início.**
 
 **SDS + CI/CD + IAM + VPC → mais segurança, controle e eficiência.**
+_____
+# 4. Infraestrutura como Código (IaC)
+
+**Infraestrutura como Código (IaC)** é a prática de **provisionar e gerenciar infraestrutura por meio de código e scripts reutilizáveis**, substituindo configurações manuais e reduzindo erros.
+
+Na nuvem, a IaC permite automatizar a criação e o gerenciamento de recursos conforme a infraestrutura cresce ou diminui.
+
+### Como funciona
+
+A infraestrutura é descrita em um **arquivo de configuração**, armazenado em um **repositório compartilhado**. Isso permite:
+
+- Controle de versões;
+- Distribuição do código;
+- Revisão e acompanhamento das alterações;
+- Maior visibilidade para a equipe.
+
+### Modelo declarativo
+
+A IaC utiliza principalmente o modelo **declarativo**, no qual o profissional define o **estado desejado** da infraestrutura.
+
+A ferramenta compara o **estado atual** com o **estado desejado** e realiza automaticamente as alterações necessárias.
+
+### Ambiente imutável
+
+Em um ambiente **imutável**, recursos desatualizados são **substituídos por versões atualizadas**, em vez de serem modificados diretamente.
+
+### Principais benefícios
+
+- **Redução de custos:** diminui tempo, esforço e complexidade.
+- **Menos erros humanos:** reduz configurações manuais.
+- **Velocidade e eficiência:** permite implantar infraestrutura de forma rápida e consistente.
+- **Automação no DevSecOps:** integra segurança ao desenvolvimento e aos pipelines **CI/CD**.
+- **Menos desvio de configuração:** mantém o arquivo como **fonte única da verdade**.
+- **Visibilidade e responsabilidade:** facilita revisar e acompanhar alterações feitas pela equipe.
+
+### IaC e segurança
+
+A segurança pode ser incorporada à IaC por meio de **verificações automatizadas**, capazes de identificar:
+
+- **Desvios de configuração**;
+- **Violações de políticas**;
+- **Problemas de segurança** nos recursos.
+
+Assim, a IaC ajuda a **criar, padronizar, controlar, monitorar e proteger** a infraestrutura em nuvem.
+_____
+# 5. Política como Código (PaC)
+
+**Política como Código (Policy as Code – PaC)** é o uso de **código para definir, gerenciar e automatizar políticas, regras e condições** de uma organização.
+
+Ela permite aplicar políticas de forma **padronizada e automática**, principalmente para garantir **segurança e conformidade** durante o ciclo de vida do DevSecOps.
+
+### PaC no DevSecOps
+
+A PaC permite realizar **verificações automatizadas de segurança e conformidade**, fornecendo feedback contínuo.
+
+Também pode utilizar **gatilhos automáticos** para alertar ou iniciar ações quando forem detectadas:
+
+- Vulnerabilidades;
+- Ameaças;
+- Violações de políticas;
+- Configurações incorretas.
+
+Por exemplo, políticas podem verificar automaticamente se um aplicativo de monitoramento cardíaco atende aos requisitos da **HIPAA**.
+
+### Principais benefícios
+
+- **Controle de versões:** registra alterações e permite reverter versões.
+- **Visibilidade:** facilita acompanhar a implementação das políticas.
+- **Eficiência:** automatiza testes e aplicação das regras.
+- **Colaboração:** facilita o trabalho conjunto entre equipes de engenharia e segurança.
+- **Segurança e conformidade:** realiza verificações contínuas para identificar problemas.
+
+### IaC × PaC
+
+| Conceito | Função |
+|---|---|
+| **IaC** | Define e automatiza a **infraestrutura**. |
+| **PaC** | Define e automatiza **políticas e regras**. |
