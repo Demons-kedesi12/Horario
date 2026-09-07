@@ -416,4 +416,66 @@ A segurança na nuvem **não é configurada uma única vez**.
 | **Expansão internacional** | Diferentes leis para os dados | Adequação às leis locais |
 | **Novas ameaças** | Novas vulnerabilidades | Monitoramento contínuo |
 
+### Perguntas Importantes ao Migrar para a Nuvem
+1. Quais controles de segurança são de sua responsabilidade?
+Identificar quais recursos precisam de proteção e quais controles ficam sob **responsabilidade da organização**.
+
+2. Quais controles de segurança estão disponíveis na oferta da nuvem?
+Verificar quais **controles o CSP oferece** e quais atendem às necessidades de segurança da organização.
+
+3. Quais controles de segurança padrão são herdados?
+Identificar os controles que o **CSP já fornece**, como proteção da infraestrutura e determinados mecanismos de segurança.
+
+4. Quais são as obrigações de compliance da organização?
+Verificar quais **leis, regulamentações e requisitos governamentais ou do setor** precisam ser cumpridos, considerando também onde os recursos serão executados.
+
+5. Quais são as exigências de segurança para clientes e prestadores?
+Avaliar como a migração afeta **usuários e prestadores de serviços**, principalmente em relação a **permissões de acesso e privacidade**.
 _____
+
+# 5. Modelo de Destino Compartilhado
+
+## O que é o Destino Compartilhado?
+
+O **Destino Compartilhado** é uma evolução da **Responsabilidade Compartilhada**, na qual **CSP e cliente trabalham de forma mais próxima** para proteger o ambiente em nuvem.
+
+O CSP oferece mais **orientação, ferramentas e recursos de segurança** durante toda a jornada do cliente.
+
+> **Objetivo:** aumentar a confiança e ajudar o cliente a projetar, implantar e operar um ambiente mais seguro.
+
+## Problemas que busca melhorar
+
+- Mudanças nas regulamentações.
+- Sobreposição de controles de segurança.
+- Necessidade de tratar segurança como **processo contínuo**.
+- Dificuldade dos clientes em proteger corretamente seus recursos.
+
+## Como aumenta a confiança?
+
+### Fundamentos de Segurança
+
+Fornece práticas recomendadas para configurar e implantar serviços com segurança, incluindo **Infraestrutura como Código (IaC)**.
+
+### Zonas de Destino (Landing Zones)
+
+Configurações **modulares e escaláveis** que servem como ponto de partida para adotar a nuvem com segurança.
+
+Podem incluir:
+- Identidade.
+- Hierarquia de recursos.
+- Controles de segurança.
+- Controles de rede.
+
+### Mitigação de Riscos
+
+Ferramentas ajudam a **identificar e avaliar riscos técnicos**, permitindo acompanhar e gerar relatórios sobre a **postura de risco** da organização.
+
+## Responsabilidade Compartilhada × Destino Compartilhado
+
+| Modelo | Principal objetivo |
+|---|---|
+| **Responsabilidade Compartilhada** | Define **quem é responsável** por cada aspecto da segurança. |
+| **Destino Compartilhado** | Promove uma **parceria mais próxima**, com o CSP oferecendo orientação e recursos durante toda a jornada. |
+
+> **Responsabilidade Compartilhada = dividir responsabilidades.**  
+> **Destino Compartilhado = dividir responsabilidades + trabalhar em parceria.**
