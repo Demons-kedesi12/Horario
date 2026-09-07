@@ -479,3 +479,150 @@ Ferramentas ajudam a **identificar e avaliar riscos técnicos**, permitindo acom
 
 > **Responsabilidade Compartilhada = dividir responsabilidades.**  
 > **Destino Compartilhado = dividir responsabilidades + trabalhar em parceria.**
+
+_____
+# 6. Modelos de Serviço em Nuvem
+
+Os modelos de serviço definem **quanto o CSP gerencia e quanto fica sob responsabilidade do cliente**.
+
+> **Quanto mais o CSP gerencia, maior é a responsabilidade dele pela segurança.**
+
+## A) IaaS — Infraestrutura como Serviço
+
+O **CSP fornece e gerencia**:
+- Computação.
+- Armazenamento.
+- Rede.
+- Virtualização.
+- Infraestrutura física.
+
+O **cliente gerencia**:
+- Máquinas virtuais.
+- Sistema operacional.
+- Aplicações.
+- Dados.
+- Configurações e segurança.
+
+→ **Maior responsabilidade do cliente** entre IaaS, PaaS e SaaS.
+
+**Vantagem:** elimina a necessidade de manter um data center próprio, mantendo bastante controle sobre o ambiente.
+
+## B) PaaS — Plataforma como Serviço
+
+O **CSP fornece e gerencia**:
+- Hardware.
+- Sistema e plataforma de desenvolvimento.
+- Recursos necessários para desenvolver aplicações.
+
+O **cliente gerencia**:
+- Código.
+- Aplicações.
+- Dados.
+- Segurança.
+
+→ O CSP gerencia mais recursos que no IaaS, reduzindo a responsabilidade operacional do cliente.
+
+**Vantagem:** desenvolvedores podem se concentrar no **código** em vez da infraestrutura.
+
+## C) SaaS — Software como Serviço
+
+O **CSP gerencia a maior parte do ambiente**:
+- Hardware.
+- Software.
+- Infraestrutura.
+- Aplicação.
+
+O **cliente se concentra principalmente em**:
+- Dados.
+- Usuários.
+- Permissões.
+- Políticas de acesso.
+
+**Exemplo:** Gmail.
+
+→ **Maior responsabilidade do CSP** entre IaaS, PaaS e SaaS.
+
+## Comparação
+
+| Modelo | Responsabilidade do CSP | Responsabilidade do cliente |
+|---|---|---|
+| **IaaS** | Menor | Maior |
+| **PaaS** | Média | Média |
+| **SaaS** | Maior | Menor |
+
+### Regra para memorizar
+
+**IaaS → mais controle do cliente**
+
+**PaaS → equilíbrio**
+
+**SaaS → mais gerenciamento do CSP**
+
+> **Em todos os modelos, o cliente continua responsável pela proteção dos próprios dados.**
+
+## Outros Modelos
+
+### FaaS — Função como Serviço
+
+Executa **trechos específicos de código** sem que o cliente precise gerenciar servidores ou infraestrutura de backend.
+
+→ Modelo de **computação sem servidor (serverless)**.
+
+### IDaaS — Identidade como Serviço
+
+Oferece serviços de:
+- MFA.
+- SSO.
+- IAM.
+
+→ Ajuda a evitar **acessos não autorizados**.
+
+### Firewall como Serviço
+
+Fornece firewalls pela nuvem para:
+- Bloquear acessos não autorizados.
+- Proteger redes.
+- Acompanhar o crescimento de usuários e dispositivos.
+
+____
+
+# IaaS — Resumo:
+
+- **IaaS:** fornece servidores, armazenamento, rede e virtualização sob demanda.
+- **Escalabilidade:** aumenta ou reduz recursos conforme a necessidade.
+- **Economia:** paga-se pelos recursos utilizados, sem manter servidores físicos.
+- **Produtividade:** o CSP gerencia a infraestrutura, permitindo que a equipe foque em serviços e segurança.
+- **Segurança:** CSP protege a infraestrutura; cliente protege **dados, acessos, autenticação e operações**.
+- **Lift-and-shift:** migra cargas do ambiente local para a nuvem com **pouca ou nenhuma alteração**.
+- 
+> **IaaS = mais controle + escalabilidade + economia, mas também maior responsabilidade do cliente pela segurança.**
+
+
+# PaaS (Plataforma Como Serviço) — Resumo:
+
+- **PaaS:** modelo em que o CSP fornece e mantém o **hardware e software de back-end**, enquanto os desenvolvedores criam e implantam aplicativos.
+- **Componentes:** infraestrutura, middleware e interface do usuário (GUI ou CLI).
+- **Escalabilidade:** recursos podem ser aumentados ou reduzidos **sob demanda**, pagando apenas pelo que for utilizado.
+- **CSP:** responsável pela infraestrutura, sistemas operacionais, segurança de rede, acesso e autenticação.
+- **Cliente:** responsável pelos **dados, políticas de acesso, aplicações, implantações e segurança dos aplicativos web**.
+- **Uso principal:** desenvolvimento e implantação de aplicativos, inclusive para sites e dispositivos móveis.
+- **Nuvem híbrida:** pode facilitar a migração, permitindo usar recursos da nuvem enquanto parte da infraestrutura permanece local.
+- **Vantagem:** desenvolvedores podem focar no **código e aplicativo**, utilizando recursos e controles de segurança fornecidos pelo CSP.
+
+> **PaaS = CSP cuida da plataforma → desenvolvedor cuida do aplicativo e código.**
+
+
+# SaaS (Software como Serviço) — Resumo:
+
+- **SaaS:** software hospedado na nuvem e acessado pela Internet, por navegador ou aplicativo.
+- **Indicado para:** organizações que não possuem equipe ou experiência para gerenciar infraestrutura ou desenvolver seus próprios aplicativos.
+- **Responsabilidade do cliente:** principalmente **proteger os dados e definir políticas de acesso**.
+- **Exemplo:** Gmail → o Google gerencia o aplicativo e a infraestrutura; o usuário gerencia seus e-mails e acesso por login.
+- **Assinatura:** geralmente funciona por planos, podendo aumentar ou diminuir a capacidade conforme a necessidade.
+- **Menor overhead:** o CSP gerencia infraestrutura, sistemas operacionais e armazenamento, reduzindo custos e trabalho para o cliente.
+- **Pagamento:** paga-se pelo uso do software, sem precisar manter servidores e equipamentos próprios.
+- **Acesso imediato:** geralmente não exige instalação; basta acessar pelo navegador ou aplicativo.
+- **Disponibilidade global:** pode ser utilizado de diferentes locais, desde que haja acesso à Internet.
+- **Shadow IT:** ocorre quando funcionários utilizam SaaS **sem aprovação da equipe de TI**, podendo gerar vulnerabilidades e problemas de segurança.
+
+> **SaaS = CSP gerencia quase tudo → cliente gerencia principalmente dados e acessos.**
