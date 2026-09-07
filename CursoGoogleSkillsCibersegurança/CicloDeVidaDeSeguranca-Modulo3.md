@@ -1,5 +1,28 @@
 # Ciclo De Vida De Segurança - Modulo 3
+______
+# Termos do glossário do Módulo 3
 
+| Termo | Definição |
+|---|---|
+| **Artefato** | Objeto digital, como arquivo ou imagem, usado no ciclo de vida de desenvolvimento de software. |
+| **Aumento da proteção para a segurança** | Processo de fortalecer um sistema para reduzir vulnerabilidades e a superfície de ataque. |
+| **Cadeia de suprimentos de software** | Pessoas, processos e ferramentas utilizados no desenvolvimento do software. |
+| **Commit** | Alteração específica feita em um arquivo. |
+| **Ciclo de vida de desenvolvimento de software** | Processo utilizado para desenvolver, testar e monitorar software. |
+| **Deslocar para a esquerda (Shift Left)** | Implementação de verificações e práticas de segurança no início e ao longo de cada fase do desenvolvimento. |
+| **Deslocamento de configuração** | Ocorre quando a configuração de um recurso é diferente do estado original ou esperado. |
+| **DevSecOps** | Cultura com diretrizes, práticas recomendadas e ferramentas que permitem às equipes de desenvolvimento, operação e segurança trabalharem juntas. |
+| **Entrega contínua** | Liberação contínua de builds de software em um ambiente de teste. |
+| **GitOps** | Framework que aplica controle de versões, colaboração, compliance e CI/CD para automatizar a infraestrutura em nuvem. |
+| **Implantação contínua** | Implantação automática de builds em um ambiente de produção em tempo real. |
+| **Integração contínua** | Processo em que desenvolvedores criam e atualizam código continuamente em um repositório compartilhado. |
+| **Integração contínua e entrega contínua (CI/CD)** | Processo utilizado pelas equipes de DevSecOps para criar software e automatizar atualizações. |
+| **Infraestrutura como código (IaC)** | Prática de automatizar e gerenciar infraestrutura utilizando scripts reutilizáveis. |
+| **Lista de materiais do software (SBOM)** | Lista legível por máquina de cada software e componente envolvido na cadeia de suprimentos. |
+| **Política como código (PaC)** | Uso de código para definir, gerenciar e automatizar políticas, regras e condições. |
+| **Procedência** | Descrição dos processos e ferramentas utilizados para criar um artefato. |
+| **Pipeline do software** | Processo que utiliza ferramentas e automação para facilitar as mudanças entre as fases do ciclo de desenvolvimento do software. |
+______
 # 1. DevSecOps
 
 **DevSecOps** é uma cultura que integra **desenvolvimento, operações e segurança** durante todo o ciclo de vida do software. Ele surgiu do **DevOps**, que aproximou desenvolvimento e operações para melhorar colaboração, comunicação e velocidade dos lançamentos.
@@ -205,7 +228,7 @@ ______
 
 O **Terraform** é uma ferramenta de IaC que automatiza a criação e implantação de recursos na nuvem e funciona com diferentes plataformas.
 
-## 2. Arquivos e recursos
+## Arquivos e recursos
 
 O Terraform utiliza **arquivos de configuração** para definir a infraestrutura desejada, como **VMs, VPCs e redes**.
 
@@ -237,4 +260,41 @@ resource "google_compute_instance" "default" {
   machine_type = "f1-micro"
   zone         = "us-west1-a"
   tags         = ["ssh"]
-  
+```
+____
+# 7. GitOps
+
+**GitOps** é uma metodologia que utiliza o **Git** e práticas de **controle de versões, colaboração, conformidade e CI/CD** para automatizar a infraestrutura em nuvem.
+
+A **IaC é o processo central** da GitOps. A infraestrutura é escrita como código e armazenada em um **repositório Git**, que funciona como a **fonte única da verdade** para os arquivos de configuração. Isso facilita acompanhar alterações e identificar a versão correta da infraestrutura.
+
+## Como funciona
+
+Quando é necessário alterar a infraestrutura, o desenvolvedor cria uma **ramificação (branch)** e realiza uma **solicitação de envio ou mesclagem (pull/merge request)** para incorporar as alterações à ramificação principal.
+
+- **Commit:** alteração específica feita em um arquivo.
+- **Branch:** ramificação criada a partir do código principal para realizar alterações.
+- **Pull/Merge Request:** solicitação para incorporar alterações ao código principal.
+- **Git:** sistema usado para controlar e acompanhar versões do código.
+
+A GitOps utiliza **CI/CD** para entregar essas alterações. A integração e a entrega contínuas permitem incorporar **IaC, segurança e requisitos de conformidade** durante o desenvolvimento.
+
+## GitOps e DevSecOps
+
+A GitOps segue o princípio **Shift Left**, permitindo aplicar a segurança desde o início.
+
+O pipeline de **CI/CD** pode realizar automaticamente:
+
+- Verificações de vulnerabilidades;
+- Verificações de conformidade da IaC;
+- Validações das alterações.
+
+Assim, problemas podem ser identificados **antes da implantação**.
+
+## Principais benefícios
+
+- **Eficiência e visibilidade:** infraestrutura e aplicações são gerenciadas com controle de versões.
+- **Controle centralizado:** facilita o gerenciamento de aplicações e infraestrutura.
+- **Colaboração:** permite acompanhar e revisar alterações.
+- **Automação:** reduz processos manuais.
+- **Containers e microsserviços:** seus princípios são especialmente úteis para organizações que utilizam esses serviços.
