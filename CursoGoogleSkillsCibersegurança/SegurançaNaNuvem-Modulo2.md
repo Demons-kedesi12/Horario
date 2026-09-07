@@ -174,4 +174,246 @@ A Defesa em Profundidade utiliza as cinco funções como camadas:
 **5. Recuperar:** restaurar dados usando backups ou recursos replicados.
 _______
 
+# 3. Modelo de Responsabilidade Compartilhada
 
+## Modelo de Responsabilidade Compartilhada
+
+A **responsabilidade compartilhada** define quem é responsável pela segurança entre o **cliente** e o **CSP (Cloud Service Provider)**.
+
+> **CSP → protege a infraestrutura da nuvem.**  
+> **Cliente → protege e configura o que coloca na nuvem.**
+
+### Cliente
+Responsável por:
+- Configurar serviços e controles de segurança.
+- Controlar acessos e permissões.
+- Proteger dados e aplicações.
+- Monitorar atividades.
+- Responder a incidentes.
+- Cumprir requisitos de segurança e conformidade.
+
+### CSP
+Responsável por:
+- Manter a infraestrutura física.
+- Proteger servidores e data centers.
+- Manter a rede.
+- Garantir a disponibilidade dos serviços.
+- Realizar manutenção e atualizações da infraestrutura.
+
+## On-Premises × Nuvem
+
+### On-Premises
+A empresa possui e gerencia:
+- Data center.
+- Servidores.
+- Rede.
+- Infraestrutura.
+
+→ **A empresa assume praticamente toda a responsabilidade pela segurança.**
+
+### Nuvem
+Parte da infraestrutura é transferida para o CSP.
+
+→ **A responsabilidade é dividida entre cliente e CSP.**
+
+> **On-premises → empresa gerencia e protege a infraestrutura.**  
+> **Nuvem → responsabilidade compartilhada.**
+
+## 3. Segurança da Nuvem × Segurança na Nuvem
+
+### Segurança da nuvem
+Principalmente responsabilidade do **CSP**:
+- Data centers.
+- Servidores.
+- Hardware.
+- Rede física.
+- Infraestrutura e disponibilidade.
+
+### Segurança na nuvem
+Principalmente responsabilidade do **cliente**:
+- Dados.
+- Aplicações.
+- Configurações.
+- Usuários.
+- Permissões.
+- Controles de segurança.
+
+> **Segurança da nuvem = proteger a infraestrutura.**  
+> **Segurança na nuvem = proteger o que o cliente coloca nela.**
+
+## 5. SLA
+
+**SLA (Service Level Agreement)** é o acordo que define e quantifica o nível de serviço que o CSP deve oferecer.
+
+Um dos principais aspectos é a **disponibilidade**.
+
+**Exemplo:**
+
+**SLA = 99,99% de disponibilidade**
+
+→ O serviço deve estar disponível durante **99,99% do período acordado**.
+
+O SLA estabelece expectativas e responsabilidades entre cliente e CSP.
+
+## Responsabilidade conforme o serviço
+
+A responsabilidade varia conforme o modelo:
+
+- **IaaS:** Infrastructure as a Service. Mais responsabilidade do cliente.
+- **PaaS:** Platform as a Service. Responsabilidade compartilhada.
+- **SaaS:** Software as a Service. Mais responsabilidade do CSP.
+
+> **Quanto mais o CSP gerencia, maior é sua responsabilidade pela segurança.**
+
+Consequentemente, quanto mais o cliente gerencia, maior é sua responsabilidade.
+
+## Controles Herdados
+
+**Controles herdados** são controles de segurança já fornecidos pela infraestrutura ou pelo CSP.
+
+O cliente deve identificar:
+- Quais controles são sua responsabilidade.
+- Quais são fornecidos pelo CSP.
+- Quais controles são herdados.
+
+Eles podem ser considerados na avaliação da segurança e ajudar em auditorias.
+
+## Segurança e Conformidade
+
+A responsabilidade também depende de:
+- Setor da organização.
+- Regulamentações.
+- Requisitos governamentais.
+- Localização.
+- Tipo de dados armazenados.
+
+Diferentes países possuem leis e requisitos diferentes para armazenamento e tratamento de dados.
+
+→ O cliente deve conhecer os requisitos que precisa cumprir e quais controles são responsabilidade sua ou do CSP.
+
+## Relação com Defesa em Profundidade
+
+A **responsabilidade compartilhada** complementa a **Defesa em Profundidade**.
+
+- **Defesa em Profundidade:** utiliza várias camadas de proteção.
+- **Responsabilidade Compartilhada:** define quem implementa e gerencia essas camadas.
+
+**CSP:**
+→ Protege data centers e servidores  
+→ Mantém a infraestrutura  
+→ Garante a disponibilidade
+
+**Cliente:**
+→ Configura acessos  
+→ Protege dados  
+→ Configura firewall  
+→ Monitora atividades  
+→ Responde a incidentes
+
+> **CSP + Cliente = proteção completa e compartilhada.**
+
+____
+
+# 4. Desafios do Modelo de Responsabilidade Compartilhada
+
+## A) Configuração Incorreta
+
+A **configuração incorreta (misconfiguration)** é um dos principais desafios e pode causar **exposição de dados** e violações de segurança.
+
+Pode ocorrer por:
+- Configurações inadequadas.
+- Atualizações frequentes.
+- Novas integrações.
+- Falhas no desenvolvimento.
+- Falta de monitoramento.
+- Permissões configuradas incorretamente.
+
+### Como reduzir o risco?
+- Monitorar o provisionamento de recursos.
+- Utilizar automação.
+- Aplicar políticas de segurança.
+- Revisar configurações regularmente.
+- Implementar corretamente o **IAM**.
+
+## B) IAM e Privilégio Mínimo
+
+O **IAM (Identity and Access Management)** controla **quem pode acessar quais recursos e quais ações pode realizar**.
+
+### Princípio do Privilégio Mínimo
+
+Cada usuário ou serviço deve possuir **somente as permissões necessárias** para sua função.
+
+> **Privilégio mínimo → menor acesso necessário → menor impacto em caso de comprometimento.**
+
+**Exemplo:**
+- Privilégio excessivo → uma chave abre todas as portas.
+- Privilégio mínimo → uma chave abre somente a porta necessária.
+
+## C) Complexidade e Vários Serviços
+
+O uso de diversos serviços e provedores aumenta a complexidade da segurança.
+
+Principais riscos:
+- Muitas configurações para gerenciar.
+- Dependência entre serviços.
+- Diferentes responsabilidades.
+- Falhas que podem afetar outros serviços.
+- Necessidade de monitorar responsabilidades do cliente e do CSP.
+
+> **Mais serviços e integrações → maior complexidade de segurança.**
+
+
+## D) Mudanças nas Regulamentações
+
+As leis e regulamentações podem mudar conforme a empresa:
+- Cresce.
+- Expande seus produtos.
+- Entra em novos mercados.
+- Adquire outras empresas.
+- Passa a operar em outros países.
+
+Isso pode exigir:
+- Novos controles de segurança.
+- Alterações nas configurações.
+- Mudanças em acordos ou SLA.
+- Adequação ao armazenamento e tratamento de dados.
+
+## E) Empresas em Diferentes Países
+
+Operar em diferentes países pode exigir o cumprimento de **leis e regulamentações distintas**.
+
+**Exemplo:**
+
+Uma empresa brasileira adquire uma empresa de tecnologia de outro país.
+
+→ Os dados adquiridos podem estar sujeitos às regulamentações dos dois países.
+
+> **Países diferentes → leis e requisitos diferentes para os dados.**
+
+## 6. Segurança como Processo Contínuo
+
+A segurança na nuvem **não é configurada uma única vez**.
+
+É necessário acompanhar continuamente:
+- Novas ameaças.
+- Vulnerabilidades.
+- Atualizações.
+- Novos serviços.
+- Mudanças na infraestrutura.
+- Regulamentações.
+- Alterações no negócio.
+
+> **Segurança é um processo contínuo porque a tecnologia e as ameaças estão sempre evoluindo.**
+
+## Principais Desafios
+
+| Desafio | Problema | Como reduzir |
+|---|---|---|
+| **Configuração incorreta** | Pode expor recursos e dados | Monitoramento e automação |
+| **Permissões excessivas** | Acesso além do necessário | IAM + privilégio mínimo |
+| **Muitos serviços** | Aumenta a complexidade | Monitoramento e gestão |
+| **Mudanças regulatórias** | Controles podem ficar inadequados | Acompanhar regulamentações |
+| **Expansão internacional** | Diferentes leis para os dados | Adequação às leis locais |
+| **Novas ameaças** | Novas vulnerabilidades | Monitoramento contínuo |
+
+_____
