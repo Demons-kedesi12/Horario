@@ -1,6 +1,6 @@
 # Introdução a Conceitos - Modulo 1
 
-# Termos e Definições — Módulo 1
+# Termos e Definições:
 
 | Termo | Definição |
 |---|---|
