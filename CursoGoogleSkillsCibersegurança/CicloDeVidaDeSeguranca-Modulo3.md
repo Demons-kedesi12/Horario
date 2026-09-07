@@ -29,3 +29,46 @@ O **feedback contínuo** permite que desenvolvimento, segurança e operações a
 
 _____
 
+# 2. Pipelines de Software, CI/CD e DevSecOps
+
+### Desenvolvimento tradicional x Pipeline
+
+A abordagem **cascata** utiliza etapas sequenciais. Erros identificados posteriormente podem exigir **retrabalho**, causando atrasos e bloqueios.
+
+Os **pipelines de software** utilizam **automação e ferramentas** para tornar o desenvolvimento contínuo. Eles permitem alterações, testes e verificações ao longo do processo, reduzindo erros humanos e aplicando o **Shift Left**.
+
+### CI/CD
+
+- **CI — Integração Contínua:** código é enviado a um repositório compartilhado e passa por builds e validações automáticas.
+- **CD — Entrega Contínua:** builds são enviados continuamente para ambientes de teste, normalmente aguardando aprovação para produção.
+- **CD — Implantação Contínua:** builds aprovados são implantados automaticamente em produção.
+
+**Fluxo:**  
+`Origem → Criação → Teste → Implantação → Monitoramento contínuo`
+
+### Segurança no pipeline
+
+No **DevSecOps**, a segurança está presente em todas as etapas, com verificações automatizadas de:
+
+- Vulnerabilidades;
+- Integridade;
+- Políticas;
+- Conformidade.
+
+Quando um problema é encontrado, o pipeline pode **interromper o processo, corrigir o problema e executar novos testes**.
+
+O **IAM** controla o acesso aos builds, enquanto as **contas de serviço** fornecem acessos específicos para aplicativos, VMs e serviços.
+
+### Cloud Build
+
+O **Cloud Build**, do Google Cloud, é um serviço **sem servidor** que automatiza builds e integra verificações de segurança ao pipeline, podendo verificar **vulnerabilidades, conformidade e integridade**.
+
+### Para memorizar
+
+**Pipeline = automação + CI/CD + testes + segurança**
+
+**DevSecOps → segurança em todas as etapas.**
+
+**Shift Left → segurança desde o início.**
+
+**Cloud Build → builds automatizados + verificações de segurança.**
