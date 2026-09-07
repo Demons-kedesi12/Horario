@@ -44,8 +44,8 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
 - [ ] **Curso Google Skills Cibersegurança**;
     - Terá Resumos e Estudos como Commit;
   - [x] Módulo 1;
-  - [ ] Módulo 2;
-  - [ ] Módulo 3;
+  - [x] Módulo 2;
+  - [x] Módulo 3;
   - [ ] Módulo 4;
   
 <br>
