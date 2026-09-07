@@ -390,7 +390,7 @@ Uma empresa brasileira adquire uma empresa de tecnologia de outro país.
 
 > **Países diferentes → leis e requisitos diferentes para os dados.**
 
-## 6. Segurança como Processo Contínuo
+## F) Segurança como Processo Contínuo
 
 A segurança na nuvem **não é configurada uma única vez**.
 
