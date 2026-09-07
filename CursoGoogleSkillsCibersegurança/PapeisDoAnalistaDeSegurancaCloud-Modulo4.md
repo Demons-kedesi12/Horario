@@ -69,3 +69,48 @@ O **analista de segurança na nuvem** protege ativos e previne ameaças. Para is
 - **Monitorar e responder a incidentes:** acompanha recursos para detectar atividades suspeitas usando **logs, detecção de ameaças e relatórios de compliance**. Em um incidente, deve **investigar, responder, conter e, se necessário, escalar a ameaça** aos responsáveis. Exemplos: **malware e violações de segurança**.
 - **Testar produtos:** avalia novos produtos de segurança e verifica periodicamente os já utilizados. Também testa aplicativos **antes da implantação** para identificar riscos.
 - **Manter-se atualizado:** acompanha **tecnologias, ameaças e tendências** por meio de blogs, periódicos e relatórios. A **OWASP Foundation** publica anualmente informações sobre as principais ameaças de segurança.
+
+_______
+# 3. Ecossistema, Partes Interessadas e Habilidades do Analista de Segurança na Nuvem
+
+O **ecossistema de segurança cibernética na nuvem** reúne **pessoas, processos e tecnologias** que trabalham em conjunto para proteger recursos e dados. O analista atua em conjunto com **SOC, arquitetos, engenheiros de segurança, equipes de compliance** e outras áreas.
+
+### Principais profissionais
+
+- **Arquiteto de segurança:** projeta a infraestrutura e os **controles de segurança**, considerando os objetivos da organização e os princípios de **confidencialidade, integridade e disponibilidade (CIA)**.
+- **Engenheiro de segurança:** **implementa e gerencia** infraestruturas e cargas de trabalho seguras, define acessos, aplica controles de proteção de dados e auxilia no **compliance**.
+- **Equipe de compliance:** garante que processos e recursos estejam de acordo com **leis, normas e regulamentações**, trabalhando em conjunto com a segurança.
+
+### Partes interessadas (stakeholders)
+
+**Partes interessadas** são pessoas ou organizações que podem **afetar ou ser afetadas pelos sistemas**. Na segurança da nuvem, incluem **liderança, funcionários, compliance, usuários finais e outros departamentos**.
+
+O analista deve adaptar a comunicação conforme o público:
+
+- **Liderança:** inclui **CEOs, CFOs, CTOs, alta administração e CISO**. Recebe informações sobre o status de segurança e incidentes para apoiar decisões.
+- **Funcionários:** recebem orientações simples sobre ameaças e práticas seguras. Em casos de **phishing**, por exemplo, o analista orienta sobre como identificar e responder à tentativa.
+- **Compliance:** verifica o atendimento a **leis, regulamentações e padrões do setor**. O analista deve compreender esses requisitos, explicar os controles utilizados e apresentar **relatórios de auditoria**.
+- **Usuários finais:** podem ser afetados por vulnerabilidades e incidentes. O analista fornece informações para equipes como **Relações Públicas (RP)**, que comunicam o problema, as correções e as ações necessárias. As organizações também devem manter **políticas de segurança transparentes e acessíveis**.
+
+A comunicação deve ser **clara e adequada ao público**, evitando jargões desnecessários. Também são importantes as habilidades de **escutar, fazer anotações e compreender requisitos e preocupações**.
+
+### Habilidades técnicas
+
+O analista deve saber **definir e configurar controles de segurança**, como **antivírus e firewalls**, para proteger o ambiente e reduzir impactos de ataques.
+
+Também realiza **análise de rede**, utilizando ferramentas para monitorar e registrar atividades e receber alertas sobre erros ou comportamentos suspeitos.
+
+### IDS e IPS
+
+| Ferramenta | Função |
+|---|---|
+| **IDS** | Monitora o ambiente, identifica possíveis ameaças e alerta sobre acessos maliciosos. |
+| **IPS** | Atua de forma **proativa**, bloqueando ou removendo ameaças com base em regras específicas. |
+
+### Auditoria e compliance
+
+O analista também participa de **auditorias de segurança e compliance**:
+
+- **Antes da auditoria:** entende os requisitos, identifica fraquezas e implementa correções.
+- **Durante/depois da auditoria:** trabalha com os auditores para avaliar os resultados e planejar **melhorias adicionais**.
+
