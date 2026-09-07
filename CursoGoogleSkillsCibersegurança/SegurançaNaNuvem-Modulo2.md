@@ -626,3 +626,105 @@ ____
 - **Shadow IT:** ocorre quando funcionários utilizam SaaS **sem aprovação da equipe de TI**, podendo gerar vulnerabilidades e problemas de segurança.
 
 > **SaaS = CSP gerencia quase tudo → cliente gerencia principalmente dados e acessos.**
+
+_____
+
+# 6. IAM — Gerenciamento de Identidade e Acesso
+
+- **IAM:** controla **quem pode acessar quais recursos** na nuvem.
+- **Principal:** identidade que pode acessar recursos, como **usuário, grupo, aplicativo ou conta de serviço**.
+- **Papel (Role):** conjunto de **permissões** que define o que um principal pode fazer.
+- **Permissões:** determinam quais ações o principal pode realizar.
+- **Conta de serviço:** identidade **não humana**, utilizada por aplicativos, serviços ou máquinas virtuais.
+- **Princípio do menor privilégio:** conceder **somente as permissões necessárias** para realizar o trabalho.
+- **Grupos:** reúnem usuários ou contas de serviço para aplicar as mesmas permissões de forma simples e segura.
+- **Política de permissão:** define quais acessos são permitidos.
+- **Política de recusa:** define quais ações são proibidas.
+- **Federação:** permite que **identidades externas** acessem recursos da nuvem usando uma identidade existente, evitando novas credenciais.
+- **SSO (Logon Único):** permite acessar diferentes recursos usando uma única identidade.
+- **MFA:** exige **duas ou mais formas de verificação**, aumentando a segurança.
+- **Provisionamento correto:** garante que cada usuário tenha os acessos adequados ao seu cargo e função.
+
+## Para memorizar
+
+**IAM = controlar acesso.**
+
+**Principal → recebe papel → papel fornece permissões → políticas controlam o acesso.**
+
+**Grupos + menor privilégio + federação + MFA = acesso mais seguro.**
+
+______
+
+# 7. Networking na Nuvem
+
+- **Networking:** conecta recursos e é fundamental para a **segurança cibernética e computação em nuvem**.
+- **Rede tradicional:** utiliza dispositivos físicos:
+  - **Roteador:** conecta diferentes redes.
+  - **Switch:** conecta dispositivos dentro de uma rede e transmite dados.
+- **SDN (Rede Definida por Software):** permite configurar e gerenciar a rede por **software**, reduzindo a dependência de configurações físicas.
+- **Virtualização:** separa os componentes de rede dos dispositivos físicos.
+- **Configuração:** pode ser realizada pelo **console do CSP ou por APIs**.
+- **Vantagens da SDN:**
+  - Menor manutenção.
+  - **Escalabilidade** conforme a demanda.
+  - Monitoramento para detectar ameaças, como **DDoS e acessos não autorizados**.
+  - O CSP gerencia a infraestrutura física.
+
+## Balanceamento de Carga
+
+- **Balanceador de carga:** distribui o tráfego entre vários servidores, evitando sobrecarga e aumentando a **disponibilidade**.
+- **Balanceador de aplicação:** atua na **camada 7 do modelo OSI**, principalmente com **HTTP/HTTPS**.
+- **Balanceador de rede:** atua na **camada 4 (transporte)**, processando tráfego **TCP e UDP**.
+- **OSI:** modelo que organiza a comunicação de rede em **7 camadas** e facilita a identificação e comunicação de problemas e ameaças.
+
+### Para memorizar
+
+**SDN = rede por software → menos manutenção + escalabilidade + monitoramento.**
+
+**Balanceador = distribui o tráfego → evita sobrecarga + aumenta disponibilidade.**
+
+**Aplicação = camada 7 | Transporte = camada 4.**
+
+| Conceitos | Resumo |
+|---|---|
+| **Rede** | Conjunto de dispositivos conectados para **trocar dados e compartilhar recursos**. |
+| **Dispositivos** | Computadores, celulares, servidores, impressoras, TVs etc. |
+| **Conexão** | Pode ser feita por **cabos (Ethernet)** ou **Wi-Fi**. |
+| **Switch** | Conecta vários dispositivos **dentro da mesma rede**. |
+| **Roteador** | Conecta **redes diferentes**, permitindo comunicação com outras redes, como a Internet. |
+| **Protocolos** | Regras que determinam **como os dispositivos se comunicam**. |
+| **Ethernet** | Tecnologia utilizada principalmente em **redes cabeadas**. |
+| **WAN** | Rede utilizada para conectar **redes geograficamente distantes**. |
+| **SOHO** | Rede de pequeno porte, comum em **casas e pequenos escritórios**. |
+_____
+
+# 8. Firewalls para Segurança de Rede
+
+- **Firewall:** controle de segurança que **monitora e restringe o tráfego de rede**, de entrada e saída.
+- **Firewall na nuvem:** semelhante ao tradicional, mas **baseado em software e hospedado pelo CSP**.
+- **Responsabilidades:**
+  - **CSP:** mantém o software e a infraestrutura física.
+  - **Cliente:** configura as regras de filtragem do tráfego.
+- **Escalabilidade:** pode aumentar ou diminuir conforme a demanda da rede, mantendo os recursos protegidos.
+- **FWaaS (Firewall as a Service):** firewall oferecido como **serviço de nuvem** para bloquear tráfego não autorizado.
+- **Importância do FWaaS:** protege diferentes pontos de acesso em redes com muitos usuários e dispositivos, permitindo aplicar políticas de segurança de forma consistente.
+
+## Práticas Recomendadas
+
+- **Privilégio mínimo:** permitir somente o tráfego necessário.
+- **Políticas hierárquicas:** aplicar regras nos níveis de organização e pastas para manter maior consistência.
+- **FWaaS adequado:** caso não utilize o firewall do CSP, escolher uma solução compatível com o ambiente do provedor.
+
+_____
+
+# 9. VPC — Nuvem Privada Virtual
+
+- **VPC (Virtual Private Cloud):** uma **nuvem privada dentro de uma nuvem pública**, permitindo utilizar recursos com **isolamento** de outros usuários.
+- **Disponibilidade:** no Google Cloud, as VPCs são **globais**, não estando vinculadas a uma região ou zona específica.
+- **Segmentação de rede:** divide a rede em **sub-redes**, facilitando o controle e monitoramento do tráfego.
+- **Segurança:** separar recursos que não precisam se comunicar **reduz a superfície de ataque** e facilita a identificação e o isolamento de problemas.
+- **Firewall:** regras determinam quem pode acessar as sub-redes com base em **endereços IP**, ajudando a aplicar o princípio do menor privilégio.
+- **VPN:** permite uma **conexão criptografada** entre redes remotas e a VPC.
+- **VPN na nuvem:** conecta a infraestrutura local da empresa à nuvem e pode ser configurada rapidamente.
+- **Cloud Interconnect:** conecta diretamente a rede local à VPC por circuitos de rede, oferecendo **alta disponibilidade e baixa latência**, sendo útil em ambientes híbridos.
+
