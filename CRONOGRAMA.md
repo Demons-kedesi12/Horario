@@ -41,21 +41,21 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
 
 <br>
   
-- [ ] **Curso Google Skills Cibersegurança**;
+- [x] **Curso Google Skills Cibersegurança**;
     - Terá Resumos e Estudos como Commit;
   - [x] Módulo 1;
   - [x] Módulo 2;
   - [x] Módulo 3;
-  - [ ] Módulo 4;
+  - [x] Módulo 4;
   
 <br>
 
 - **Exercícios das Listas e Algoritmos de Guilherme**;
   - Os exercícios das Listas serão realizados no caderno (commit em imagem). Já os Algoritmos, serão commits normais.
   - [x] Lista 1;
-  - [ ] Lista 2;
+  - [x] Lista 2;
   - [x] Algoritmos;
-  - [ ] Trabalho;
+  - [x] Trabalho;
     - Tarefas Bônus;
     - [x] Tarefa 01;
     - [x] Tarefa 02;
