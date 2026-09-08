@@ -1,5 +1,19 @@
 # Papéis Do Analista De Segurança Cloud - Modulo 4
 _______
+# Termos Módulo 4:
+
+| Termo | Definição |
+|---|---|
+| **Arquiteto de segurança da nuvem** | Profissional que projeta e desenvolve medidas e controles de segurança na infraestrutura em nuvem das organizações. |
+| **Central de operações de segurança (SOC)** | Parte da organização responsável por detectar incidentes de segurança cibernética e responder a eles. |
+| **Controles de segurança na nuvem** | Protegem os ambientes de nuvem contra ameaças e reduzem os efeitos de ataques nocivos. |
+| **Ecossistema de segurança cibernética na nuvem** | Rede de pessoas, processos e tecnologias que trabalham em conjunto para proteger a nuvem. |
+| **Engenheiro de segurança na nuvem** | Profissional que implementa e gerencia infraestruturas e cargas de trabalho seguras na nuvem. |
+| **Equipe de conformidade** | Equipe responsável por garantir que os processos estejam de acordo com leis, regulamentações e normas. |
+| **Gerenciamento da postura de segurança na nuvem** | Processo de monitorar e configurar recursos de nuvem para garantir segurança e conformidade com práticas recomendadas, regulamentações e políticas da organização. |
+| **Gerenciamento de riscos à informação** | Processo de identificar, avaliar e reduzir possíveis ameaças aos recursos de informação. |
+| **Inteligência contra ameaças** | Coleta, análise e avaliação de informações sobre ameaças cibernéticas. |
+| **Parte interessada (stakeholder)** | Pessoa ou organização que pode afetar um sistema ou ser afetada por ele. |
 ______
 # 1. Carreiras em Segurança na Nuvem
 
@@ -114,3 +128,71 @@ O analista também participa de **auditorias de segurança e compliance**:
 - **Antes da auditoria:** entende os requisitos, identifica fraquezas e implementa correções.
 - **Durante/depois da auditoria:** trabalha com os auditores para avaliar os resultados e planejar **melhorias adicionais**.
 
+______
+# 4. Ferramentas de Segurança na Nuvem
+
+Os analistas utilizam ferramentas para **gerenciar infraestrutura, automatizar tarefas, monitorar redes, detectar ameaças e colaborar**. Elas podem possuir **CLI** (linha de comando) ou **GUI** (interface gráfica).
+
+### Principais ferramentas
+
+| Ferramenta | Função principal |
+|---|---|
+| **Linux** | Executar comandos, gerenciar aplicações, tráfego e acessos. |
+| **Terraform** | IaC, automação e aplicação de padrões de segurança. |
+| **reCAPTCHA** | Detectar bots, spam e comportamentos maliciosos. |
+| **Wireshark** | Analisar pacotes e tráfego de rede. |
+| **VirusTotal** | Verificar arquivos e URLs em busca de conteúdo malicioso. |
+| **Lucidchart** | Criar diagramas de redes, dados e processos. |
+
+### Ferramentas do Google Cloud
+
+| Ferramenta | Função principal |
+|---|---|
+| **Cloud Console** | Gerenciar recursos e serviços pela Web. |
+| **Cloud Shell** | Executar comandos e scripts por CLI. |
+| **Cloud Functions** | Executar funções serverless acionadas por eventos e gatilhos. |
+| **Google Workspace** | Colaboração e compartilhamento de arquivos. |
+| **Cloud Identity** | Gerenciar usuários, grupos, **SSO e MFA**. |
+| **Compute Engine** | Criar e gerenciar **VMs**, monitorando atividades suspeitas e configurações incorretas. |
+
+### Para memorizar
+
+| Ferramenta | Lembre-se de |
+|---|---|
+| **Console** | Gerenciar |
+| **Shell** | Comandos |
+| **Functions** | Eventos |
+| **Workspace** | Colaboração |
+| **Identity** | Acesso |
+| **Compute Engine** | VMs |
+
+_______
+
+# 5. Cloud Shell e gcloud CLI
+
+O **Cloud Shell** é uma **CLI do Google Cloud** acessada pelo navegador. Permite gerenciar recursos, executar comandos e criar scripts. É gratuito, porém **temporário** e encerrado após um período de inatividade, portanto não deve ser usado para armazenar arquivos ou executar ações de produção.
+
+O Cloud Shell utiliza a **gcloud CLI**, que organiza comandos em grupos relacionados aos produtos do Google Cloud. Por exemplo, `gcloud compute` permite criar e gerenciar recursos do **Compute Engine**, como máquinas virtuais.
+
+### Principais usos
+
+| Uso | Descrição |
+|---|---|
+| **Gerenciar recursos** | Criar e gerenciar **VMs, buckets, bancos de dados e VPCs**. |
+| **Aplicações** | Desenvolver e implantar aplicações. |
+| **Scripts** | Executar scripts, códigos e configurações **Terraform**. |
+| **Ambientes** | Criar ambientes de **teste, qualidade e produção**. |
+| **Arquivos e redes** | Visualizar/editar arquivos e consultar configurações de rede. |
+
+### Comandos para VPC
+
+| Comando | Função |
+|---|---|
+| `gcloud compute networks create` | Cria uma **VPC**. |
+| `gcloud compute networks subnets create` | Cria uma **sub-rede**. |
+| `gcloud compute networks list` | Lista as **VPCs**. |
+| `gcloud compute networks subnets list --network=labnet` | Lista as **sub-redes** da VPC `labnet`. |
+| `gcloud compute networks create labnet --subnet -mode=custom` |
+| `gcloud compute networks subnets create labnet-sub --network=labnet **\enter/** --range=10.10.0.0/28 **\enter/** --region=us-east1` | 
+
+As **VPCs fornecem recursos de rede para VMs e contêineres**, permitindo organizar e controlar a comunicação entre os recursos.
