@@ -63,14 +63,17 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
     - [x] Tarefa 04;
     - [x] Tarefa 05;
     - [x] Tarefa 06;
+    - [ ] Tarefa 07;
 
 <br>
 
-- [ ] **Exercícios de Java sobre IPOO**;
+- [x] **Exercícios de Java sobre IPOO - Marcelo**;
   - Esses exercícios são diariamente atualizados e novos, então é uma das atividades que não mudará. Para ver o processo, será postado os códigos em Java aqui.
   - [x] Estoque e Livro;
   - [x] Sistema de Funcionários de uma Empresa;
   - [x] Sistema de Contas Bancárias;
+  - [x] Simulado para Prova Prática;
+  - [ ] Simulado Prova Teórica;
 
 
   <br>
@@ -81,6 +84,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   - [x] Lista de Mapa de Karnaugh 1;
   - [x] Lista de Mapa de Karnaugh 2;
   - [x] Projeto;
+  - [ ] Lista de Revisão para Prova;
   
   <br>
 
@@ -96,7 +100,8 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
      
 - **Análise e Projeto de Algoritmos do Leonardo**;
   - [x] Trabalho Análise e projeto de algoritmos;
-  - [ ] Teste de Mesa;
+  - [x] Teste de Mesa;
+  - [x] Prova;
 
 </tbody>
 </table>
