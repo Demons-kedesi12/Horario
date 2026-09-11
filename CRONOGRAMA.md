@@ -102,6 +102,10 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   - [x] Trabalho Análise e projeto de algoritmos;
   - [x] Teste de Mesa;
   - [x] Prova;
+ 
+- **Curso Aluno Tutor Google 2026**;
+    - Terá Resumos e Estudos como Commit;
+    - [ ] Projeto Final;
 
 </tbody>
 </table>
