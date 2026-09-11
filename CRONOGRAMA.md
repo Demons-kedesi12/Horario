@@ -63,7 +63,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
     - [x] Tarefa 04;
     - [x] Tarefa 05;
     - [x] Tarefa 06;
-    - [ ] Tarefa 07;
+    - [x] Tarefa 07;
 
 <br>
 
