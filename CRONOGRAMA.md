@@ -113,7 +113,7 @@ __________
 ## Coisas Feitas na Semana:
 - Semana 14 a 19:
   - Dia 14: Relatório e Porfólio do Londrinense Tech e Estudos para a Prova de Álgebra Booleana(Gustavo);
-  - Dia 15: Relatório e Portfólio do Pensamento Computacional e 
+  - Dia 15: Relatório e Portfólio do Pensamento Computacional e Estudos para a Prova de Álgebra Booleana(Gustavo) e a Prova Teórica de POO (Marcelo)
   - Dia 16: Relatório e Portfólio do Pensamento Computacional
   - Dia 17:
 
