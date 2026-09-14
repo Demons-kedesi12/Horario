@@ -84,7 +84,9 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   - [x] Lista de Mapa de Karnaugh 1;
   - [x] Lista de Mapa de Karnaugh 2;
   - [x] Projeto;
-  - [ ] Lista de Revisão para Prova;
+  - [x] Lista de Revisão para Prova;
+  - [ ] Lista de Revisão para Prova 2;
+
   
   <br>
 
@@ -106,6 +108,15 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
 - **Curso Aluno Tutor Google 2026**;
     - Terá Resumos e Estudos como Commit;
     - [ ] Projeto Final;
+
+__________
+## Coisas Feitas na Semana:
+- Semana 14 a 19:
+  - Dia 14: Relatório e Porfólio do Londrinense Tech e Estudos para a Prova de Álgebra Booleana(Gustavo);
+  - Dia 15: Relatório e Portfólio do Pensamento Computacional e 
+  - Dia 16: Relatório e Portfólio do Pensamento Computacional
+  - Dia 17:
+
 
 </tbody>
 </table>
