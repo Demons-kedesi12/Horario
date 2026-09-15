@@ -86,7 +86,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   - [x] Lista de Mapa de Karnaugh 2;
   - [x] Projeto;
   - [x] Lista de Revisão para Prova;
-  - [ ] Lista de Revisão para Prova 2;
+  - [x] Lista de Revisão para Prova 2;
 
   
   <br>
