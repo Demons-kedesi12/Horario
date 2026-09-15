@@ -74,7 +74,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   - [x] Sistema de Funcionários de uma Empresa;
   - [x] Sistema de Contas Bancárias;
   - [x] Simulado para Prova Prática;
-  - [ ] Simulado Prova Teórica;
+  - [x] Simulado Prova Teórica;
 
 
   <br>
@@ -114,7 +114,7 @@ __________
 ## Coisas Feitas na Semana:
 - Semana 14 a 19:
   - Dia 14: Relatório e Porfólio do Londrinense Tech, Estudos para a Prova de Álgebra Booleana(Gustavo), Tarefas Bônus de Álgebra Linear(Guilherme);
-  - Dia 15: Relatório e Portfólio do Pensamento Computacional e Estudos para a Prova de Álgebra Booleana(Gustavo) e a Prova Teórica de POO (Marcelo)
+  - Dia 15: Relatório e Portfólio do Pensamento Computacional e Estudos para a Prova de Álgebra Booleana(Gustavo) e a Prova Teórica de POO (Marcelo);
   - Dia 16: Relatório e Portfólio do Pensamento Computacional
   - Dia 17:
 
