@@ -108,6 +108,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
  
 - **Curso Aluno Tutor Google 2026**;
     - Terá Resumos e Estudos como Commit;
+    - https://edu.nuvemmestra.com.br/
     - [ ] Projeto Final;
  
 - **Curso CTFL da BSTQB**;
