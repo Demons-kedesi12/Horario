@@ -122,7 +122,7 @@ __________
   - Dia 15: Relatório e Portfólio do Pensamento Computacional e Estudos para a Prova de Álgebra Booleana(Gustavo) e a Prova Teórica de POO (Marcelo);
   - Dia 16: Relatório e Portfólio do Pensamento Computacional.
   - Dia 17: Estudos para a Prova de Álgebra Linear de Guilherme;
-  - Dia 18; Curso Google Tutor.
+  - Dia 18: Curso Google Tutor.
 
 </tbody>
 </table>
