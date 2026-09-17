@@ -109,6 +109,11 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
 - **Curso Aluno Tutor Google 2026**;
     - Terá Resumos e Estudos como Commit;
     - [ ] Projeto Final;
+ 
+- **Curso CTFL da BSTQB**;
+    -  Certified Tester Foundation Level (CTFL);
+    -  https://bstqb.online/ctfl
+    - [ ] Estudos como Commit;
 
 __________
 ## Coisas Feitas na Semana:
@@ -118,7 +123,6 @@ __________
   - Dia 16: Relatório e Portfólio do Pensamento Computacional.
   - Dia 17: Estudos para a Prova de Álgebra Linear de Guilherme;
   - Dia 18; Curso Google Tutor.
-
 
 </tbody>
 </table>
