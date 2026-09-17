@@ -115,8 +115,9 @@ __________
 - Semana 14 a 19:
   - Dia 14: Relatório e Porfólio do Londrinense Tech, Estudos para a Prova de Álgebra Booleana(Gustavo), Tarefas Bônus de Álgebra Linear(Guilherme);
   - Dia 15: Relatório e Portfólio do Pensamento Computacional e Estudos para a Prova de Álgebra Booleana(Gustavo) e a Prova Teórica de POO (Marcelo);
-  - Dia 16: Relatório e Portfólio do Pensamento Computacional
-  - Dia 17:
+  - Dia 16: Relatório e Portfólio do Pensamento Computacional.
+  - Dia 17: Estudos para a Prova de Álgebra Linear de Guilherme;
+  - Dia 18; Curso Google Tutor.
 
 
 </tbody>
