@@ -107,9 +107,10 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   - [x] Prova;
  
 - **Curso Aluno Tutor Google 2026**;
-    - Terá Resumos e Estudos como Commit;
     - https://edu.nuvemmestra.com.br/
+    - Em andamento.....
     - [ ] Projeto Final;
+    - Link do Site do Projeto Final -> https://sites.google.com/edu.unifil.br/projetofinal-mariaeduardapalma?usp=sharing
  
 - **Curso CTFL da BSTQB**;
     -  Certified Tester Foundation Level (CTFL);
@@ -118,12 +119,19 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
 
 __________
 ## Coisas Feitas na Semana:
-- Semana 14 a 19:
+- Semana 14 a 18:
   - Dia 14: Relatório e Porfólio do Londrinense Tech, Estudos para a Prova de Álgebra Booleana(Gustavo), Tarefas Bônus de Álgebra Linear(Guilherme);
   - Dia 15: Relatório e Portfólio do Pensamento Computacional e Estudos para a Prova de Álgebra Booleana(Gustavo) e a Prova Teórica de POO (Marcelo);
-  - Dia 16: Relatório e Portfólio do Pensamento Computacional.
+  - Dia 16: Relatório e Portfólio do Pensamento Computacional;
   - Dia 17: Estudos para a Prova de Álgebra Linear de Guilherme e atualizações dos Cursos e Atividades;
   - Dia 18: Curso Google Tutor.
+
+- Semana 21 a 25:
+  - Dia 21: Relatório e Porfólio do Londrinense Tech e Curso Google Tutor;
+  - Dia 22: Relatório e Portfólio do Pensamento Computacional e Curso Google Tutor;
+  - Dia 23: Relatório e Portfólio do Pensamento Computacional e Curso Google Tutor;
+  - Dia 24: Criação Projeto Final do Curso Google Tutor;
+  - Dia 25: 
 
 </tbody>
 </table>
