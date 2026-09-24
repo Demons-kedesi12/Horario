@@ -109,7 +109,7 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
 - **Curso Aluno Tutor Google 2026**;
     - https://edu.nuvemmestra.com.br/
     - Em andamento.....
-    - [ ] Projeto Final;
+    - [x] Projeto Final;
     - Link do Site do Projeto Final -> https://sites.google.com/edu.unifil.br/projetofinal-mariaeduardapalma?usp=sharing
  
 - **Curso CTFL da BSTQB**;
@@ -130,7 +130,7 @@ __________
   - Dia 21: Relatório e Porfólio do Londrinense Tech e Curso Google Tutor;
   - Dia 22: Relatório e Portfólio do Pensamento Computacional e Curso Google Tutor;
   - Dia 23: Relatório e Portfólio do Pensamento Computacional e Curso Google Tutor;
-  - Dia 24: Criação Projeto Final do Curso Google Tutor;
+  - Dia 24: Criação e Finalização do Projeto Final do Curso Google Tutor;
   - Dia 25: 
 
 </tbody>
