@@ -110,7 +110,9 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
     - https://edu.nuvemmestra.com.br/
     - Em andamento.....
     - [x] Projeto Final;
+    - [ ] Realizar o Relatório Final de Execução;
     - Link do Site do Projeto Final -> https://sites.google.com/edu.unifil.br/projetofinal-mariaeduardapalma?usp=sharing
+
  
 - **Curso CTFL da BSTQB**;
     -  Certified Tester Foundation Level (CTFL);
