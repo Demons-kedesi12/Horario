@@ -1,5 +1,5 @@
 # NPI
-Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atualizado semanalmente todo Domingo ou Segunda, sobre as atividades que realizarei na semana.
+Repositório que mostrará meu progresso no NPI no primeiro ano do curso de Ciência da Computação 1° Entrada, aqui terá um cronograma atualizado semanalmente todo Domingo ou Segunda, sobre as atividades que realizarei na semana.
 
 <table>
   <caption>Cronograma Geral:</caption> 
@@ -34,61 +34,13 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
       <td>Fazer Cursos ou Realizar Atividades da Faculdade</td>
       <td>Participar do Grupo de IA</td>
     </tr>
+</table>
 
+__________
 <h2>Atividades e Cursos Pendentes:</h2>
-<small> OBS: Atividades com Check, já foram concluídas e provavelmente foram postadas aqui.</small>
+<small> OBS: Atividades com Check serão realocadas para outra seção (Já Concluídas).</small>
 <small> As atividades passadas serão diariamente atualizadas para novas atividades.</small>
-
-<br>
-  
-- [x] **Curso Google Skills Cibersegurança**;
-    - Terá Resumos e Estudos como Commit;
-  - [x] Módulo 1;
-  - [x] Módulo 2;
-  - [x] Módulo 3;
-  - [x] Módulo 4;
-  
-<br>
-
-- **Exercícios das Listas e Algoritmos de Guilherme**;
-  - Os exercícios das Listas serão realizados no caderno (commit em imagem). Já os Algoritmos, serão commits normais.
-  - [x] Lista 1;
-  - [x] Lista 2;
-  - [x] Algoritmos;
-  - [x] Trabalho;
-    - Tarefas Bônus;
-    - [x] Tarefa 01;
-    - [x] Tarefa 02;
-    - [x] Tarefa 03;
-    - [x] Tarefa 04;
-    - [x] Tarefa 05;
-    - [x] Tarefa 06;
-    - [x] Tarefa 07;
-    - [x] Tarefa 08;
-
-<br>
-
-- [x] **Exercícios de Java sobre IPOO - Marcelo**;
-  - Esses exercícios são diariamente atualizados e novos, então é uma das atividades que não mudará. Para ver o processo, será postado os códigos em Java aqui.
-  - [x] Estoque e Livro;
-  - [x] Sistema de Funcionários de uma Empresa;
-  - [x] Sistema de Contas Bancárias;
-  - [x] Simulado para Prova Prática;
-  - [x] Simulado Prova Teórica;
-
-
-  <br>
-
-- **Exercícios das Listas do Gustavo**;
-  - Provavelmente serão commits em imagens do caderno.
-  - [x] Lista DEMORGAN;
-  - [x] Lista de Mapa de Karnaugh 1;
-  - [x] Lista de Mapa de Karnaugh 2;
-  - [x] Projeto;
-  - [x] Lista de Revisão para Prova;
-  - [x] Lista de Revisão para Prova 2;
-
-  
+ 
   <br>
 
 - [ ] **Estudo de HTML, CSS e JavaScript**;
@@ -100,27 +52,14 @@ Repositório que mostrará meu progresso no NPI, aqui terá um cronograma atuali
   - Estudo Pessoal (Udemy - Nelio Alves), atualizações em Commits;
      
   <br>
-     
-- **Análise e Projeto de Algoritmos do Leonardo**;
-  - [x] Trabalho Análise e projeto de algoritmos;
-  - [x] Teste de Mesa;
-  - [x] Prova;
- 
-- [x] **Curso Aluno Tutor Google 2026**;
-    - https://edu.nuvemmestra.com.br/
-    - Em andamento.....
-    - [x] Projeto Final;
-    - [x] Realizar o Relatório Final de Execução;
-    - Link do Site do Projeto Final -> https://sites.google.com/edu.unifil.br/projetofinal-mariaeduardapalma?usp=sharing
-
- 
+    
 - **Curso CTFL da BSTQB**;
     -  Certified Tester Foundation Level (CTFL);
     -  https://bstqb.online/ctfl
     - [ ] Estudos como Commit;
 
 __________
-## Coisas Feitas na Semana:
+## Atividades Feitas na Semana:
 
 - **MÊS 09:**
   - **Semana 14 a 18**:
@@ -147,7 +86,31 @@ __________
    
 
 - **MÊS 10:**
+__________
 
+## **CURSOS E ATIVIDADES JÁ CONCLUÍDAS:**
+
+- [x] **Curso Google Skills Cibersegurança**;
+  
+<br>
+
+- [x] **Exercícios das Listas e Algoritmos de Guilherme**;
+
+<br>
+
+- [x] **Exercícios de Java sobre IPOO - Marcelo**;
+
+  <br>
+
+- [x] **Exercícios das Listas do Gustavo**;
+
+  <br>
+  
+- [x] **Análise e Projeto de Algoritmos do Leonardo**;
+
+  <br>
+ 
+- [x] **Curso Aluno Tutor Google 2026**;
+    - Link do Site do Projeto Final -> https://sites.google.com/edu.unifil.br/projetofinal-mariaeduardapalma?usp=sharing
 
 </tbody>
-</table>
