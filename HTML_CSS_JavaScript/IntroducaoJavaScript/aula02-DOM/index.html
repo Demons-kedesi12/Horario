@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS - DOM </title>
+</head>
+
+<body>
+
+    <h1 class="para">DOM</h1>
+    <p>Tô aprendendo JavaScript</p>
+    <p>Hello,Wolrd!</p>
+
+    <div id="msg">
+        Batata
+    </div>
+
+    <script>
+        var p1 = document.getElementsByTagName('p')[0]
+        document.write(p1.innerHTML)
+        alert(p1.innerText)
+        var d = document.getElementById('msg')
+        d.style.color = 'orange'
+        d.innerText = 'Batatataa'
+
+
+        var para = document.getElementsByClassName("para")[0]
+        alert(para.innerText)
+
+        var n = document.querySelector('h1.para')
+        n.style.color = 'blue'
+    </script>
+
+</body>
+
+</html>
