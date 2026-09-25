@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JS - DOM </title>
+
+    <style>
+        #botao {
+            background-color: blue;
+            height: 200px;
+            width: 200px;
+            border-radius: 25%;
+            border: 1px solid black;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+    </style>
+
+</head>
+
+<body>
+    <div id="botao">
+        <h1> Botão Imenso </h1>
+    </div>
+
+
+    <script>
+        var b = document.getElementById('botao')
+        b.addEventListener('click', clicar)
+        b.addEventListener('mouseenter', entrar)
+        b.addEventListener('mouseout', sair)
+
+        function entrar() {
+            b.innerText = 'Iai rapá?'
+            b.style.color = 'white'
+        }
+
+        function clicar() {
+            b.innerText = 'AAAIIII ME CRICOU!! SEU SEM CORAÇÃO!!'
+            b.style.background = 'red'
+        }
+
+        function sair() {
+            b.innerText = 'Flw rapá!'
+            b.style.color = 'white'
+            b.style.background = 'blue'
+        }
+    </script>
+</body>
+
+</html>
