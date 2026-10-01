@@ -78,10 +78,10 @@ __________
 
 
   - **Semana 28 a 02**:
-    - Dia 28: Relatório e Porfólio do Londrinense Tech e ;
-    - Dia 29: Relatório e Portfólio do Pensamento Computacional e ;
-    - Dia 30: Relatório e Portfólio do Pensamento Computacional e ;
-    - Dia 01: 
+    - Dia 28: Relatório e Porfólio do Londrinense Tech;
+    - Dia 29: Relatório e Portfólio do Pensamento Computacional;
+    - Dia 30: Relatório e Portfólio do Pensamento Computacional;
+    - Dia 01: Estudos para o Curso de CTFL da BSTQB;
     - Dia 02: 
    
 
