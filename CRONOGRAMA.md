@@ -45,6 +45,7 @@ __________
 
 - [ ] **Estudo de HTML, CSS e JavaScript**;
   - Estudo Pessoal (Curso em Vídeo), atualizações em Commits;
+  - Site de uma ONG hipotética que resgata animais: https://demons-kedesi12.github.io/HotelBomPraCachorro/
      
   <br>
 
