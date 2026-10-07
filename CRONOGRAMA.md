@@ -87,6 +87,14 @@ __________
    
 
 - **MÊS 10:**
+
+    - **Semana 05 a 09**:
+    - Dia 28: Relatório e Porfólio do Londrinense Tech e Site Pessoal HotelBomPraCachorro;
+    - Dia 29: Relatório e Portfólio do Pensamento Computacional e Site Pessoal HotelBomPraCachorro;
+    - Dia 30: Relatório e Portfólio do Pensamento Computacional e Site Pessoal HotelBomPraCachorro;
+    - Dia 01: Estudos para o Curso de CTFL da BSTQB;
+    - Dia 02: Estudos para o Curso de CTFL da BSTQB e Grupo de IA;
+  
 __________
 
 ## **CURSOS E ATIVIDADES JÁ CONCLUÍDAS:**
