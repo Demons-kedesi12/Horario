@@ -45,7 +45,7 @@ __________
 
 - [ ] **Estudo de HTML, CSS e JavaScript**;
   - Estudo Pessoal (Curso em Vídeo), atualizações em Commits;
-  - Site de uma ONG hipotética que resgata animais: https://demons-kedesi12.github.io/HotelBomPraCachorro/
+  - Site de uma ONG hipotética que resgata animais: https://demons-kedesi12.github.io/HotelBomPraCachorro/ ---> Situação: Concluída
      
   <br>
 
@@ -92,11 +92,16 @@ __________
       - Dia 06: Relatório e Portfólio do Pensamento Computacional e Site Pessoal HotelBomPraCachorro;
       - Dia 07: Relatório e Portfólio do Pensamento Computacional e Site Pessoal HotelBomPraCachorro;
       - Dia 08: Estudos para o Curso de CTFL da BSTQB e Site Pessoal HotelBomPraCachorro;
-      - Dia 09: Estudos para o Curso de CTFL da BSTQB e Grupo de IA;
+      - Dia 09: Finalização do Site Pessoal HotelBomPraCachorro e Grupo de IA;
   
 __________
 
 ## **CURSOS E ATIVIDADES JÁ CONCLUÍDAS:**
+
+- [x] **Site Pessoal que aplica HTML, CSS e JavaScript --> Hotel Bom Pra Cachorro **;
+
+<br>
+
 
 - [x] **Curso Google Skills Cibersegurança**;
   
