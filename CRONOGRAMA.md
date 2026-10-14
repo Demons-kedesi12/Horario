@@ -43,6 +43,13 @@ __________
  
   <br>
 
+  - [ ] **Lista de Álgebra Linear de Guilherme: **;
+    - Exercícios realizados terão atualizações commitadas em PDF;
+      - [ ] Lista 1: Relações e Funções;
+      - [ ] Lista 2: Classificações de Funções;
+
+  <br>
+
 - [ ] **Estudo de HTML, CSS e JavaScript**;
   - Estudo Pessoal (Curso em Vídeo), atualizações em Commits;
   - Site de uma ONG hipotética que resgata animais: https://demons-kedesi12.github.io/HotelBomPraCachorro/ ---> Situação: Concluída
@@ -93,6 +100,13 @@ __________
       - Dia 07: Relatório e Portfólio do Pensamento Computacional e Site Pessoal HotelBomPraCachorro;
       - Dia 08: Estudos para o Curso de CTFL da BSTQB e Site Pessoal HotelBomPraCachorro;
       - Dia 09: Finalização do Site Pessoal HotelBomPraCachorro e Grupo de IA;
+
+    - **Semana 12 a 16**:
+      - Dia 12: Feriado;
+      - Dia 13: Feriado e Estudos para o Curso de CTFL da BSTQB;
+      - Dia 14: Relatório e Portfólio do Pensamento Computacional e Estudos para o Curso de CTFL da BSTQB;
+      - Dia 15: Estudos para o Curso de CTFL da BSTQB;
+      - Dia 16: Estudos para o Curso de CTFL da BSTQB e Grupo de IA;
   
 __________
 
