@@ -104,7 +104,7 @@ __________
     - **Semana 12 a 16**:
       - Dia 12: Feriado;
       - Dia 13: Feriado e Estudos para o Curso de CTFL da BSTQB;
-      - Dia 14: Relatório e Portfólio do Pensamento Computacional e Estudos para o Curso de CTFL da BSTQB;
+      - Dia 14: Relatório e Portfólio do Pensamento Computacional e Estudos sobre RAG com vídeo para o Grupo de IA (Tudo anotado no Notion);
       - Dia 15: Estudos para o Curso de CTFL da BSTQB;
       - Dia 16: Estudos para o Curso de CTFL da BSTQB e Grupo de IA;
   
