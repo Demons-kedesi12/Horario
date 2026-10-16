@@ -106,7 +106,7 @@ __________
       - Dia 13: Feriado e Estudos para o Curso de CTFL da BSTQB;
       - Dia 14: Relatório e Portfólio do Pensamento Computacional e Estudos sobre RAG com vídeo para o Grupo de IA (Tudo anotado no Notion);
       - Dia 15: Estudos para o Curso de CTFL da BSTQB;
-      - Dia 16: Estudos para o Curso de CTFL da BSTQB e Grupo de IA;
+      - Dia 16: Estudos para o Curso de CTFL da BSTQB e incrementos a mais no site HotelBomPraCachorro;
   
 __________
 
