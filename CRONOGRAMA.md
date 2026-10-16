@@ -45,7 +45,7 @@ __________
 
   - [ ] **Lista de Álgebra Linear de Guilherme: **;
     - Exercícios realizados terão atualizações commitadas em PDF;
-      - [ ] Lista 1: Relações e Funções;
+      - [x] Lista 1: Relações e Funções;
       - [ ] Lista 2: Classificações de Funções;
 
   <br>
@@ -106,7 +106,7 @@ __________
       - Dia 13: Feriado e Estudos para o Curso de CTFL da BSTQB;
       - Dia 14: Relatório e Portfólio do Pensamento Computacional e Estudos sobre RAG com vídeo para o Grupo de IA (Tudo anotado no Notion);
       - Dia 15: Estudos para o Curso de CTFL da BSTQB;
-      - Dia 16: Estudos para o Curso de CTFL da BSTQB e incrementos a mais no site HotelBomPraCachorro;
+      - Dia 16: Estudos para o Curso de CTFL da BSTQB, incrementos a mais no site HotelBomPraCachorro e Lista 1 de Álgebra Linear do Guilherme;
   
 __________
 
