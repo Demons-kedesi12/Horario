@@ -43,7 +43,7 @@ __________
  
   <br>
 
-  - [ ] **Lista de Álgebra Linear de Guilherme: **;
+  - [ ] **Álgebra Linear de Guilherme: 4° Bimestre **;
     - Exercícios realizados terão atualizações commitadas em PDF;
       - [x] Lista 1: Relações e Funções;
       - [ ] Lista 2: Classificações de Funções;
@@ -64,7 +64,8 @@ __________
 - **Curso CTFL da BSTQB**;
     -  Certified Tester Foundation Level (CTFL);
     -  https://bstqb.online/ctfl
-    - [ ] Estudos como Commit;
+    - [x] Estudos como Commit;
+    - [ ] Exercícios para Simular;
 
 __________
 ## Atividades Feitas na Semana:
@@ -115,7 +116,6 @@ __________
 - [x] **Site Pessoal que aplica HTML, CSS e JavaScript --> Hotel Bom Pra Cachorro **;
 
 <br>
-
 
 - [x] **Curso Google Skills Cibersegurança**;
   
