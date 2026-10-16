@@ -28,7 +28,7 @@ Repositório que mostrará meu progresso no NPI no primeiro ano do curso de Ciê
     </tr>
     <tr>
       <td>16:00 - 18:00</td>
-      <td>Londrinense Tech Turma 5</td>
+      <td>Realizar o Relatório e Portfólio do Londrinense Tech Turma 4 / Completar Cursos ou Atividades (se tiver tempo)</td>
       <td>Realizar o Relatório e Portfólio do Pensamento Computacional Turma B / Completar Cursos ou Atividades (se tiver tempo) </td>
       <td>Realizar o Relatório e Portfólio do Pensamento Computacional Turma E / Completar Cursos ou Atividades (se tiver tempo)</td>
       <td>Fazer Cursos ou Realizar Atividades da Faculdade</td>
