@@ -60,12 +60,11 @@ __________
   - Estudo Pessoal (Udemy - Nelio Alves), atualizações em Commits;
      
   <br>
-    
-- **Curso CTFL da BSTQB**;
-    -  Certified Tester Foundation Level (CTFL);
-    -  https://bstqb.online/ctfl
-    - [x] Estudos como Commit;
-    - [ ] Exercícios para Simular;
+
+- [ ] **Trabalho de Metodologias Ágeis do Professor Nelson**;
+  - Um banco chamado NekoPay, programado com Java;
+  - Terá Backend e FrontEnd;
+  - Commits serão realizados no repositório Trabalho de Metodologias Ágeis.
 
 __________
 ## Atividades Feitas na Semana:
@@ -92,8 +91,9 @@ __________
     - Dia 30: Relatório e Portfólio do Pensamento Co mputacional;
     - Dia 01: Estudos para o Curso de CTFL da BSTQB;
     - Dia 02: Estudos para o Curso de CTFL da BSTQB; 
-   
 
+  <br>
+  
 - **MÊS 10:**
     - **Semana 05 a 09**:
       - Dia 05: Relatório e Porfólio do Londrinense Tech e Site Pessoal HotelBomPraCachorro;
@@ -106,6 +106,13 @@ __________
       - Dia 12: Feriado;
       - Dia 13: Feriado e Estudos para o Curso de CTFL da BSTQB;
       - Dia 14: Relatório e Portfólio do Pensamento Computacional e Estudos sobre RAG com vídeo para o Grupo de IA (Tudo anotado no Notion);
+      - Dia 15: Estudos para o Curso de CTFL da BSTQB;
+      - Dia 16: Estudos para o Curso de CTFL da BSTQB, incrementos a mais no site HotelBomPraCachorro e Lista 1 de Álgebra Linear do Guilherme;
+     
+   - **Semana 19 a 23**:
+      - Dia 12: Relatório e Porfólio do Londrinense Tech e estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
+      - Dia 13: Relatório e Portfólio do Pensamento Computacional ;
+      - Dia 14: Relatório e Portfólio do Pensamento Computacional ;
       - Dia 15: Estudos para o Curso de CTFL da BSTQB;
       - Dia 16: Estudos para o Curso de CTFL da BSTQB, incrementos a mais no site HotelBomPraCachorro e Lista 1 de Álgebra Linear do Guilherme;
   
@@ -139,5 +146,11 @@ __________
  
 - [x] **Curso Aluno Tutor Google 2026**;
     - Link do Site do Projeto Final -> https://sites.google.com/edu.unifil.br/projetofinal-mariaeduardapalma?usp=sharing
+     
+  <br>
+  
+- [x] **Curso CTFL da BSTQB**;
+    -  Certified Tester Foundation Level (CTFL);
+    -  https://bstqb.online/ctfl
 
 </tbody>
