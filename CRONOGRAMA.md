@@ -111,7 +111,7 @@ __________
      
    - **Semana 19 a 23**:
       - Dia 12: Relatório e Porfólio do Londrinense Tech e estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
-      - Dia 13: Relatório e Portfólio do Pensamento Computacional ;
+      - Dia 13: Relatório e Portfólio do Pensamento Computacional e estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores;
       - Dia 14: Relatório e Portfólio do Pensamento Computacional ;
       - Dia 15: Estudos para o Curso de CTFL da BSTQB;
       - Dia 16: Estudos para o Curso de CTFL da BSTQB, incrementos a mais no site HotelBomPraCachorro e Lista 1 de Álgebra Linear do Guilherme;
