@@ -110,11 +110,11 @@ __________
       - Dia 16: Estudos para o Curso de CTFL da BSTQB, incrementos a mais no site HotelBomPraCachorro e Lista 1 de Álgebra Linear do Guilherme;
      
    - **Semana 19 a 23**:
-      - Dia 12: Relatório e Porfólio do Londrinense Tech e estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
-      - Dia 13: Relatório e Portfólio do Pensamento Computacional e estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores;
-      - Dia 14: Relatório e Portfólio do Pensamento Computacional ;
-      - Dia 15: Estudos para o Curso de CTFL da BSTQB;
-      - Dia 16: Estudos para o Curso de CTFL da BSTQB, incrementos a mais no site HotelBomPraCachorro e Lista 1 de Álgebra Linear do Guilherme;
+      - Dia 19: Relatório e Porfólio do Londrinense Tech e estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
+      - Dia 20: Relatório e Portfólio do Pensamento Computacional e estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores;
+      - Dia 21: Relatório e Portfólio do Pensamento Computacional e estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores ;
+      - Dia 22: Estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores;
+      - Dia 23: Estudos sobre RAG com vídeo para o Grupo de IA (Tudo anotado no Notion) e Grupo de IA;
   
 __________
 
