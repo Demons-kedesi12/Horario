@@ -118,7 +118,7 @@ __________
       - Dia 23: Estudos sobre RAG com vídeo para o Grupo de IA (Tudo anotado no Notion) e Grupo de IA;
     
     - **Semana 26 a 30**:
-      - Dia 26: Relatório e Porfólio do Londrinense Tech;
+      - Dia 26: Relatório e Porfólio do Londrinense Tech e Simulação de um exercício de POO2 Marcelo;
       - Dia 20: Relatório e Portfólio do Pensamento Computacional e ;
       - Dia 21: Relatório e Portfólio do Pensamento Computacional e ;
       - Dia 22: Estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores;
