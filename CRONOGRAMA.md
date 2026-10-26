@@ -65,6 +65,7 @@ __________
   - Um banco chamado NekoPay, programado com Java;
   - Terá Backend e FrontEnd;
   - Commits serão realizados no repositório Trabalho de Metodologias Ágeis.
+    -[ ] Fazer Controllers da Transferência e do Conta(Atualizado);
 
 __________
 ## Atividades Feitas na Semana:
@@ -115,6 +116,13 @@ __________
       - Dia 21: Relatório e Portfólio do Pensamento Computacional e estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores ;
       - Dia 22: Estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores;
       - Dia 23: Estudos sobre RAG com vídeo para o Grupo de IA (Tudo anotado no Notion) e Grupo de IA;
+    
+    - **Semana 26 a 30**:
+      - Dia 26: Relatório e Porfólio do Londrinense Tech;
+      - Dia 20: Relatório e Portfólio do Pensamento Computacional e ;
+      - Dia 21: Relatório e Portfólio do Pensamento Computacional e ;
+      - Dia 22: Estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores;
+      - Dia 23: e Grupo de IA;
   
 __________
 
