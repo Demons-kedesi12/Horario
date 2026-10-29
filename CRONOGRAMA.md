@@ -133,7 +133,7 @@ __________
       - Dia 26: Relatório e Porfólio do Londrinense Tech e Simulação de um exercício de POO2 Marcelo;
       - Dia 27: Relatório e Portfólio do Pensamento Computacional e estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
       - Dia 28: Relatório e Portfólio do Pensamento Computacional e exercício Atv13 de POO do Marcelo;
-      - Dia 29: Exercício Atv15 de POO do Marcelo;
+      - Dia 29: Refazer a ULA e todos os circuitos das aulas já feitas no ano pela matéria de Arquitetura de Computadores e Sistemas Digitais (Manutenção e Melhora dos Circuitos);
       - Dia 30: e Grupo de IA;
   
 __________
