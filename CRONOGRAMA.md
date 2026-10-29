@@ -67,16 +67,25 @@ __________
   - Commits serão realizados no repositório Trabalho de Metodologias Ágeis.
     -[ ] Fazer Controllers da Transferência e do Conta(Atualizado);
 
+
+- [ ] **Exercícios de Java sobre POO 4°Bimestre - Marcelo**;
+  - Exercícios propostos na aula.
+  - [x] Atv13
+  - [ ] Atv15; 
+
+
 __________
 ## Atividades Feitas na Semana:
 
 - **MÊS 09:**
+  
   - **Semana 14 a 18**:
     - Dia 14: Relatório e Porfólio do Londrinense Tech, Estudos para a Prova de Álgebra Booleana(Gustavo), Tarefas Bônus de Álgebra Linear(Guilherme);
     - Dia 15: Relatório e Portfólio do Pensamento Computacional e Estudos para a Prova de Álgebra Booleana(Gustavo) e a Prova Teórica de POO (Marcelo);
     - Dia 16: Relatório e Portfólio do Pensamento Computacional;
     - Dia 17: Estudos para a Prova de Álgebra Linear de Guilherme e atualizações dos Cursos e Atividades;
     - Dia 18: Curso Google Tutor.
+
 
   - **Semana 21 a 25**:
     - Dia 21: Relatório e Porfólio do Londrinense Tech e Curso Google Tutor;
@@ -103,12 +112,14 @@ __________
       - Dia 08: Estudos para o Curso de CTFL da BSTQB e Site Pessoal HotelBomPraCachorro;
       - Dia 09: Finalização do Site Pessoal HotelBomPraCachorro e Grupo de IA;
 
+
     - **Semana 12 a 16**:
       - Dia 12: Feriado;
       - Dia 13: Feriado e Estudos para o Curso de CTFL da BSTQB;
       - Dia 14: Relatório e Portfólio do Pensamento Computacional e Estudos sobre RAG com vídeo para o Grupo de IA (Tudo anotado no Notion);
       - Dia 15: Estudos para o Curso de CTFL da BSTQB;
       - Dia 16: Estudos para o Curso de CTFL da BSTQB, incrementos a mais no site HotelBomPraCachorro e Lista 1 de Álgebra Linear do Guilherme;
+  
      
    - **Semana 19 a 23**:
       - Dia 19: Relatório e Porfólio do Londrinense Tech e estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
@@ -117,12 +128,13 @@ __________
       - Dia 22: Estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores;
       - Dia 23: Estudos sobre RAG com vídeo para o Grupo de IA (Tudo anotado no Notion) e Grupo de IA;
     
+    
     - **Semana 26 a 30**:
       - Dia 26: Relatório e Porfólio do Londrinense Tech e Simulação de um exercício de POO2 Marcelo;
-      - Dia 20: Relatório e Portfólio do Pensamento Computacional e ;
-      - Dia 21: Relatório e Portfólio do Pensamento Computacional e ;
-      - Dia 22: Estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores;
-      - Dia 23: e Grupo de IA;
+      - Dia 27: Relatório e Portfólio do Pensamento Computacional e estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
+      - Dia 28: Relatório e Portfólio do Pensamento Computacional e exercício Atv13 de POO do Marcelo;
+      - Dia 29: Exercício Atv15 de POO do Marcelo;
+      - Dia 30: e Grupo de IA;
   
 __________
 
@@ -140,7 +152,7 @@ __________
 
 <br>
 
-- [x] **Exercícios de Java sobre IPOO - Marcelo**;
+- [x] **Exercícios de Java sobre POO 3°Bimestre - Marcelo**;
 
   <br>
 
