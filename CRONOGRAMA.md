@@ -65,13 +65,15 @@ __________
   - Um banco chamado NekoPay, programado com Java;
   - Terá Backend e FrontEnd;
   - Commits serão realizados no repositório Trabalho de Metodologias Ágeis.
-    -[ ] Fazer Controllers da Transferência e do Conta(Atualizado);
+    - [x] Fazer Controllers da Transferência e do Conta(Atualizado);
+    - [ ] Corrigir Bugs e fazer Testes na parte de Poupança do Sistema
+    
 
 
 - [ ] **Exercícios de Java sobre POO 4°Bimestre - Marcelo**;
   - Exercícios propostos na aula.
   - [x] Atv13
-  - [ ] Atv15; 
+  - [x] Atv15; 
 
 
 __________
@@ -134,7 +136,7 @@ __________
       - Dia 27: Relatório e Portfólio do Pensamento Computacional e estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
       - Dia 28: Relatório e Portfólio do Pensamento Computacional e exercício Atv13 de POO do Marcelo;
       - Dia 29: Refazer a ULA e todos os circuitos das aulas já feitas no ano pela matéria de Arquitetura de Computadores e Sistemas Digitais (Manutenção e Melhora dos Circuitos);
-      - Dia 30: e Grupo de IA;
+      - Dia 30: Fazer a Atv15 de POO do Marcelo e Grupo de IA;
   
 __________
 
