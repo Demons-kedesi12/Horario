@@ -79,7 +79,7 @@ __________
 __________
 ## Atividades Feitas na Semana:
 
-- **MÊS 09:**
+- **MÊS 09 / SETEMBRO:**
   
   - **Semana 14 a 18**:
     - Dia 14: Relatório e Porfólio do Londrinense Tech, Estudos para a Prova de Álgebra Booleana(Gustavo), Tarefas Bônus de Álgebra Linear(Guilherme);
@@ -106,7 +106,7 @@ __________
 
   <br>
   
-- **MÊS 10:**
+- **MÊS 10 / OUTUBRO:**
     - **Semana 05 a 09**:
       - Dia 05: Relatório e Porfólio do Londrinense Tech e Site Pessoal HotelBomPraCachorro;
       - Dia 06: Relatório e Portfólio do Pensamento Computacional e Site Pessoal HotelBomPraCachorro;
@@ -133,10 +133,20 @@ __________
     
     - **Semana 26 a 30**:
       - Dia 26: Relatório e Porfólio do Londrinense Tech e Simulação de um exercício de POO2 Marcelo;
-      - Dia 27: Relatório e Portfólio do Pensamento Computacional e estudos para trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
+      - Dia 27: Relatório e Portfólio do Pensamento Computacional e trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
       - Dia 28: Relatório e Portfólio do Pensamento Computacional e exercício Atv13 de POO do Marcelo;
       - Dia 29: Refazer a ULA e todos os circuitos das aulas já feitas no ano pela matéria de Arquitetura de Computadores e Sistemas Digitais (Manutenção e Melhora dos Circuitos);
       - Dia 30: Fazer a Atv15 de POO do Marcelo e Grupo de IA;
+     
+
+
+- **MÊS 11  / NOVEMBRO:**
+    - **Semana 02 a 06**:
+      - Dia 02: Feriado;
+      - Dia 03: Fiquei doente e não compareci neste dia;
+      - Dia 04: Relatório e Portfólio do Pensamento Computacional e trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
+      - Dia 05: ;
+      - Dia 06: ;
   
 __________
 
