@@ -66,7 +66,7 @@ __________
   - Terá Backend e FrontEnd;
   - Commits serão realizados no repositório Trabalho de Metodologias Ágeis.
     - [x] Fazer Controllers da Transferência e do Conta(Atualizado);
-    - [ ] Corrigir Bugs e fazer Testes na parte de Poupança do Sistema
+    - [x] Corrigir Bugs e fazer Testes na parte de Poupança do Sistema;
     
 
 
@@ -145,7 +145,7 @@ __________
       - Dia 02: Feriado;
       - Dia 03: Fiquei doente e não compareci neste dia;
       - Dia 04: Relatório e Portfólio do Pensamento Computacional e trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
-      - Dia 05: ;
+      - Dia 05: Trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores) e Lista 2 de Álgebra Linear do Guilherme;
       - Dia 06: ;
   
 __________
