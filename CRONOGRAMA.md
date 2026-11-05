@@ -145,8 +145,8 @@ __________
       - Dia 02: Feriado;
       - Dia 03: Fiquei doente e não compareci neste dia;
       - Dia 04: Relatório e Portfólio do Pensamento Computacional e trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
-      - Dia 05: Trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores) e Lista 2 de Álgebra Linear do Guilherme;
-      - Dia 06: ;
+      - Dia 05: Trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
+      - Dia 06: Lista 2 de Álgebra Linear do Guilherme;
   
 __________
 
