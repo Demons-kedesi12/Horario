@@ -44,13 +44,13 @@ __________
  
   <br>
 
-  - [ ] **Álgebra Linear de Guilherme: 4° Bimestre **;
+  - [ ] **Álgebra Linear de Guilherme: 4° Bimestre**;
     - Exercícios realizados terão atualizações commitadas em PDF;
       - [x] Lista 1: Relações e Funções;
       - [ ] Lista 2: Classificações de Funções;
   <br>
   
-       - [ ] **Sistemas Digitas de Gustavo: 4° Bimestre **;
+  - [ ] **Sistemas Digitas de Gustavo: 4° Bimestre**;
     - Exercícios realizados terão atualizações commitadas em PDF;
       - [ ] Flip-Flops e SRAM;
 
