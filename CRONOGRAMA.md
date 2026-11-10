@@ -146,6 +146,7 @@ __________
       - Dia 29: Refazer a ULA e todos os circuitos das aulas já feitas no ano pela matéria de Arquitetura de Computadores e Sistemas Digitais (Manutenção e Melhora dos Circuitos);
       - Dia 30: Fazer a Atv15 de POO do Marcelo e Grupo de IA;
      
+  <br>
 
 
 - **MÊS 11  / NOVEMBRO:**
