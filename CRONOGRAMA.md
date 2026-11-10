@@ -37,6 +37,7 @@ Repositório que mostrará meu progresso no NPI no primeiro ano do curso de Ciê
 </table>
 
 __________
+
 <h2>Atividades e Cursos Pendentes:</h2>
 <small> OBS: Atividades com Check serão realocadas para outra seção (Já Concluídas).</small>
 <small> As atividades passadas serão diariamente atualizadas para novas atividades.</small>
@@ -47,6 +48,11 @@ __________
     - Exercícios realizados terão atualizações commitadas em PDF;
       - [x] Lista 1: Relações e Funções;
       - [ ] Lista 2: Classificações de Funções;
+  <br>
+  
+       - [ ] **Sistemas Digitas de Gustavo: 4° Bimestre **;
+    - Exercícios realizados terão atualizações commitadas em PDF;
+      - [ ] Flip-Flops e SRAM;
 
   <br>
 
@@ -149,6 +155,13 @@ __________
       - Dia 04: Relatório e Portfólio do Pensamento Computacional e trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
       - Dia 05: Trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
       - Dia 06: Trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores) e Lista 2 de Álgebra Linear do Guilherme;
+     
+    - **Semana 02 a 06**:
+      - Dia 09: Formatura Londrinense Tech;
+      - Dia 10: Formatura Pensamento Computacional;
+      - Dia 11: Lista 2 de Álgebra Linear de Guilherme;
+      - Dia 12: Lista 2 de Álgebra Linear de Guilherme;
+      - Dia 13: ;
   
 __________
 
