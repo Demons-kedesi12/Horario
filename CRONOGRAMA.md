@@ -47,7 +47,7 @@ __________
   - [ ] **Álgebra Linear de Guilherme: 4° Bimestre**;
     - Exercícios realizados terão atualizações commitadas em PDF;
       - [x] Lista 1: Relações e Funções;
-      - [ ] Lista 2: Classificações de Funções;
+      - [x] Lista 2: Classificações de Funções;
   <br>
   
   - [ ] **Sistemas Digitas de Gustavo: 4° Bimestre**;
@@ -160,7 +160,7 @@ __________
     - **Semana 02 a 06**:
       - Dia 09: Formatura Londrinense Tech;
       - Dia 10: Formatura Pensamento Computacional;
-      - Dia 11: Lista 2 de Álgebra Linear de Guilherme;
+      - Dia 11: Participei do evento Londrisoft Camp 2026;
       - Dia 12: Lista 2 de Álgebra Linear de Guilherme;
       - Dia 13: ;
   
