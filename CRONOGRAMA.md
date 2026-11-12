@@ -161,7 +161,7 @@ __________
       - Dia 09: Formatura Londrinense Tech;
       - Dia 10: Formatura Pensamento Computacional;
       - Dia 11: Participei do evento Londrisoft Camp 2026;
-      - Dia 12: Lista 2 de Álgebra Linear de Guilherme;
+      - Dia 12: Lista 2 de Álgebra Linear de Guilherme e iniciar atividade Flip-Flops e SRAM de Sistema Digitais do Gustavo;
       - Dia 13: ;
   
 __________
