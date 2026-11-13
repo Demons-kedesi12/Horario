@@ -74,14 +74,14 @@ __________
     - [x] Fazer Controllers da Transferência e do Conta(Atualizado);
     - [x] Corrigir Bugs e fazer Testes na parte de Poupança do Sistema;
     - [x] Fazer a estilização da Transferência, Extrato e Perfil.
-    - [ ] Fazer os toques finas da estilização.
-    
 
+<br>
 
 - [ ] **Exercícios de Java sobre POO 4°Bimestre - Marcelo**;
   - Exercícios propostos na aula.
   - [x] Atv13
-  - [x] Atv15; 
+  - [x] Atv15;
+  - [x] Atv21;
 
 
 __________
@@ -162,7 +162,7 @@ __________
       - Dia 10: Formatura Pensamento Computacional;
       - Dia 11: Participei do evento Londrisoft Camp 2026;
       - Dia 12: Lista 2 de Álgebra Linear de Guilherme e iniciar atividade Flip-Flops e SRAM de Sistema Digitais do Gustavo;
-      - Dia 13: ;
+      - Dia 13: Atv 21 de POO do Marcelo e Grupo de IA;
   
 __________
 
