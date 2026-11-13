@@ -1,49 +1,40 @@
 package Livro;
+
 public class Livro {
     private String titulo;
-    private String autor;
-    private int paginas;
- 
-    public Livro(String titulo, String autor, int paginas, int ano ){
+    private SituacaoLivro situacao;
+
+    public Livro(String titulo) {
         this.titulo = titulo;
-        this.autor = autor;
-        this.paginas = paginas;
+        this.situacao = SituacaoLivro.DISPONIVEL;
     }
-    public void apresentarLivros(){
- 
-        System.out.println("Nome do Livro: " + titulo + "\nAutor: " + autor + "\nQuantidade de Páginas: " + paginas);
-    }
- 
-    public void setTitulo(String titulo){
-        if(titulo==null){
-            System.out.println("Nome do Título Inválido!");
+
+    public boolean emprestar(){
+        if (situacao == SituacaoLivro.DISPONIVEL){
+            System.out.println("O livro está DISPONÍVEL! ---> Emprestando...");
+            situacao = SituacaoLivro.EMPRESTADO;
+
+            return true;
         }else{
-            this.titulo=titulo;
+            System.out.println("O livro NÃO está DISPONÍVEL! ---> FALHA...");
+
+            return false;
         }
     }
-    public void setAutor(String autor){
-        if(autor==null){
-            System.out.println("Nome do Autor Inválido!");
+    public boolean devolver(){
+        if (situacao == SituacaoLivro.EMPRESTADO){
+            System.out.println("O livro está EMPRESTADO! ---> Devolvendo...");
+            situacao = SituacaoLivro.DISPONIVEL;
+
+            return true;
         }else{
-            this.autor=autor;
-        }
-    }
-    public void setPaginas(int paginas){
-        if(paginas<0){
-            System.out.println("Valor de Páginas Inválido!");
-        }else{
-            this.paginas=paginas;
+            System.out.println("O livro NÃO foi EMPRESTADO! ---> FALHA...");
+            return false;
         }
     }
 
-    public String getTitulo(){
-        return titulo;
+    @Override
+    public String toString() {
+        return "Situação: " + situacao;
     }
-    public String getAutor(){
-        return autor;
-    }
-    public int getPaginas(){
-        return paginas;
-    }
- }
- 
+}
