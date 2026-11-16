@@ -48,6 +48,7 @@ __________
     - Exercícios realizados terão atualizações commitadas em PDF;
       - [x] Lista 1: Relações e Funções;
       - [x] Lista 2: Classificações de Funções;
+      - [ ] Lista 3: Funções;
   <br>
   
   - [ ] **Sistemas Digitas de Gustavo: 4° Bimestre**;
@@ -64,7 +65,6 @@ __________
 
 - [ ] **Estudo de Java POO**;
   - Estudo Pessoal (Udemy - Nelio Alves), atualizações em Commits;
-    - [ ] Fazer uma Simulação da Prova;
      
   <br>
 
@@ -83,6 +83,8 @@ __________
   - [x] Atv13
   - [x] Atv15;
   - [x] Atv21;
+  - [ ] Fazer uma Simulação da Prova;
+
 
 
 __________
@@ -160,6 +162,13 @@ __________
      
     - **Semana 02 a 06**:
       - Dia 09: Formatura Londrinense Tech;
+      - Dia 10: Formatura Pensamento Computacional;
+      - Dia 11: Participei do evento Londrisoft Camp 2026;
+      - Dia 12: Lista 2 de Álgebra Linear de Guilherme e iniciar atividade Flip-Flops e SRAM de Sistema Digitais do Gustavo;
+      - Dia 13: Atv 21 de POO do Marcelo e Grupo de IA;
+     
+      - **Semana 16 a 20**:
+      - Dia 16: Finalizar atividade Flip-Flops e SRAM de Sistema Digitais do Gustavo e começar Lista 3 de Álgebra Linear de Guilherme;
       - Dia 10: Formatura Pensamento Computacional;
       - Dia 11: Participei do evento Londrisoft Camp 2026;
       - Dia 12: Lista 2 de Álgebra Linear de Guilherme e iniciar atividade Flip-Flops e SRAM de Sistema Digitais do Gustavo;
