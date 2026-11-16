@@ -52,7 +52,7 @@ __________
   
   - [ ] **Sistemas Digitas de Gustavo: 4° Bimestre**;
     - Exercícios realizados terão atualizações commitadas em PDF;
-      - [ ] Flip-Flops e SRAM;
+      - [x] Flip-Flops e SRAM;
 
   <br>
 
@@ -64,6 +64,7 @@ __________
 
 - [ ] **Estudo de Java POO**;
   - Estudo Pessoal (Udemy - Nelio Alves), atualizações em Commits;
+    - [ ] Fazer uma Simulação da Prova;
      
   <br>
 
