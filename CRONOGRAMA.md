@@ -160,14 +160,14 @@ __________
       - Dia 05: Trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores);
       - Dia 06: Trabalho de Metodologias Ágeis (Outro Repositório com Colaboradores) e Lista 2 de Álgebra Linear do Guilherme;
 
-      - **Semana 09 a 13**:
+    - **Semana 09 a 13**:
       - Dia 09: Finalizar atividade Flip-Flops e SRAM de Sistema Digitais do Gustavo e começar Lista 3 de Álgebra Linear de Guilherme;
       - Dia 10: Formatura Pensamento Computacional;
       - Dia 11: Participei do evento Londrisoft Camp 2026;
       - Dia 12: Lista 2 de Álgebra Linear de Guilherme e iniciar atividade Flip-Flops e SRAM de Sistema Digitais do Gustavo;
       - Dia 13: Atv 21 de POO do Marcelo e Grupo de IA;
 
-        - **Semana 16 a 20**:
+    - **Semana 16 a 20**:
       - Dia 16: Lista 3 Álgebra Linear de Guilherme;
       - Dia 17: Por conta de problemas técnicos no ipolon, não pude realizar as atividades;
       - Dia 18: Realizei a Simulação para prova de POO;
